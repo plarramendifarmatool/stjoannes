@@ -1,0 +1,1354 @@
+﻿ID,Tipo,SKU,"GTIN, UPC, EAN o ISBN",Nombre,Publicado,"¿Está destacado?","Visibilidad en el catálogo","Descripción corta",Descripción,"Día en que empieza el precio rebajado","Día en que termina el precio rebajado","Estado del impuesto","Clase de impuesto",¿Existencias?,Inventario,"Cantidad de bajo inventario","¿Permitir reservas de productos agotados?","¿Vendido individualmente?","Peso (kg)","Longitud (cm)","Anchura (cm)","Altura (cm)","¿Permitir valoraciones de clientes?","Nota de compra","Precio rebajado","Precio normal",Categorías,Etiquetas,"Clase de envío",Imágenes,"Límite de descargas","Días de caducidad de la descarga",Superior,"Productos agrupados","Ventas dirigidas","Ventas cruzadas","URL externa","Texto del botón",Posición,Marcas,"Nombre del atributo 1","Valor(es) del atributo 1","Atributo visible 1","Atributo global 1","Meta: _wpml_media_featured","Meta: _wpml_media_duplicate","Meta: _alp_processed","Meta: _et_pb_post_hide_nav","Meta: _et_pb_page_layout","Meta: _et_pb_side_nav","Meta: _et_pb_use_builder","Meta: _et_builder_version","Meta: _et_pb_ab_stats_refresh_interval","Meta: _et_pb_old_content","Meta: _et_pb_enable_shortcode_tracking","Meta: _et_pb_custom_css","Meta: wcpoa_order_status","Meta: wcpoa_variation","Meta: _wpml_media_has_media","Meta: _et_pb_first_image","Meta: _et_pb_truncate_post","Meta: _views_template","Meta: _wpml_location_migration_done","Meta: _et_pb_truncate_post_date","Meta: wcpoa_attachment_ext_url","Meta: minimum_allowed_quantity","Meta: maximum_allowed_quantity","Meta: group_of_quantity","Meta: minmax_do_not_count","Meta: minmax_cart_exclude","Meta: minmax_category_group_of_exclude","Meta: berocket_post_order","Meta: _yoast_wpseo_content_score","Meta: _yoast_wpseo_estimated-reading-time-minutes","Meta: _yoast_wpseo_wordproof_timestamp","Meta: _wc_gla_visibility","Meta: _wc_gla_notification_status","Meta: _wp_old_date","Meta: _et_pb_show_page_creation","Meta: _et_pb_built_for_post_type","Meta: _et_pb_ab_subjects","Meta: _et_pb_ab_current_shortcode","Meta: _et_pb_gutter_width","Meta: _et_pb_product_page_layout","Meta: _et_pb_woo_page_content_status","Meta: _global_colors_info","Meta: _wapl_label_type","Meta: _wapl_label_text","Meta: _wapl_label_style","Meta: _wapl_label_align","Meta: _wapl_custom_bg_color","Meta: _wapl_custom_text_color","Meta: _wapl_custom_image","Meta: _wapl_label_exclude","Meta: _yoast_wpseo_primary_product_cat","Meta: _yoast_wpseo_title"
+987456327,simple,STJOANNESB,,"BLANCO SANT JOANNES XAREL-LO 2019 ECO",1,0,visible,"PEDIDO MÍNIMO 1 CAJA\nCADA CAJA CONTIENE\n6 BOTELLAS DE 75cl.\n\nPrecio Caja  52€ (IVA Incluído)","<strong>Origen:</strong> La Casa Gran, Sant Joan Samora – DO Penedès\n\nClima mediterráneo cálido, suelos arcillo arenosos\n\n<strong>Graduación:</strong> 13.5% vol.\n\n<strong>Acidez:</strong> 5.0 g/L\n\n<strong>Presentación:</strong> 75 cl.\n\n<strong>Tipo de cierre:</strong> corcho\n\n<strong>Tipo de vino:</strong> blanco\n\n&nbsp;\n\n<strong>Composición varietal: </strong>\n\n× Xarel·lo (85%) y Viognier (15%). Viñas ecológicas propias, 80 años de edad\n\n<strong>Elaboración:</strong> uva vendimiada manualmente en su punto óptimo de maduración. Fermentación en tinas de acero inoxidable con control de temperatura. Clarificación y estabilización en frío seguida de una ligera filtración. Embotellado en diciembre del 2019\n\n<strong>Nota de cata:</strong> color amarillo pajizo con tonalidades verdosas, de lágrima fina. En nariz presenta notas de frutas blancas, con una clara presencia típica varietal de tonos vegetales y balsámicos de hierba recién cortada y hinojo. La entrada en boca es fresca y a la vez untuosa, con un recorrido agradable que acaba en recuerdos de flores secas y fruta blanca (pera, manzana)\n\n&nbsp;\n\n<strong>Sugerencias de armonización:</strong> arroces, suquet, aperitivos y carnes blancas\n\n<strong>Temperatura de Servicio:</strong>  5 – 8ºC\n\n&nbsp;\n\nVino ecológico certificado por el CCPAE (Consell Català de Producció Agrària Ecològica), que controla el proceso de producción, elaboración, envasado y comercialización",,"2021-05-16 0:00:00",taxable,,0,,,0,0,1.1,,,,0,,6,"7,19",Blancos,Blanco,,"https://stjoannes.com/wp-content/uploads/2019/12/SANT-JOANNES-XAREL-LO-2019.jpg, https://stjoannes.com/wp-content/uploads/2019/12/SANT-JOANNES-XAREL-LO-2019caja.jpg, https://stjoannes.com/wp-content/uploads/2019/12/SANT-JOANNES-XAREL-LO-2019.jpg",,,,,MATHA,,,,0,,Lote,19011,1,1,1,1,1578423269,no,et_no_sidebar,off,,BB|Divi|3.12.1,hourly,,,,wc-all,,1,,,0,1,,,6,,6,no,no,no,0,90,1,,dont-sync-and-show,deleted,2019-12-13,,,,,,,,,,,,,,,,,,
+987456328,simple,MATHA,,"BLANCO MATHA 2019 SANT JOANNES ECO",1,0,visible,"PEDIDO MÍNIMO 1 CAJA\nCADA CAJA CONTIENE\n6 BOTELLAS DE 75cl.\n\nPrecio Caja  72€ (IVA Incluído)","[et_pb_section fb_built=""1"" _builder_version=""4.16"" custom_padding=""0px||||false|false"" global_colors_info=""{}""][et_pb_row _builder_version=""4.16"" background_size=""initial"" background_position=""top_left"" background_repeat=""repeat"" width=""100%"" custom_padding=""0px||0px||false|false"" global_colors_info=""{}""][et_pb_column type=""4_4"" _builder_version=""4.16"" custom_padding=""|||"" global_colors_info=""{}"" custom_padding__hover=""|||""][et_pb_wc_breadcrumb _builder_version=""4.16"" global_colors_info=""{}""][/et_pb_wc_breadcrumb][et_pb_wc_cart_notice _builder_version=""4.16"" global_colors_info=""{}""][/et_pb_wc_cart_notice][/et_pb_column][/et_pb_row][et_pb_row column_structure=""1_2,1_2"" _builder_version=""4.16"" background_size=""initial"" background_position=""top_left"" background_repeat=""repeat"" width=""100%"" custom_padding=""0px||||false|false"" global_colors_info=""{}""][et_pb_column type=""1_2"" _builder_version=""4.16"" custom_padding=""|||"" global_colors_info=""{}"" custom_padding__hover=""|||""][et_pb_wc_images _builder_version=""4.16"" global_colors_info=""{}""][/et_pb_wc_images][/et_pb_column][et_pb_column type=""1_2"" _builder_version=""4.16"" custom_padding=""|||"" global_colors_info=""{}"" custom_padding__hover=""|||""][et_pb_wc_title _builder_version=""4.16"" global_colors_info=""{}""][/et_pb_wc_title][et_pb_wc_rating _builder_version=""4.16"" global_colors_info=""{}""][/et_pb_wc_rating][et_pb_wc_price _builder_version=""4.16"" global_colors_info=""{}""][/et_pb_wc_price][et_pb_wc_description _builder_version=""4.16"" global_colors_info=""{}""][/et_pb_wc_description][et_pb_wc_add_to_cart _builder_version=""4.16"" global_colors_info=""{}""][/et_pb_wc_add_to_cart][et_pb_wc_meta _builder_version=""4.16"" global_colors_info=""{}""][/et_pb_wc_meta][/et_pb_column][/et_pb_row][et_pb_row _builder_version=""4.16"" background_size=""initial"" background_position=""top_left"" background_repeat=""repeat"" width=""100%"" global_colors_info=""{}""][et_pb_column type=""4_4"" _builder_version=""4.16"" custom_padding=""|||"" global_colors_info=""{}"" custom_padding__hover=""|||""][et_pb_wc_tabs _builder_version=""4.16"" global_colors_info=""{}""]					[/et_pb_wc_tabs][et_pb_wc_upsells _builder_version=""4.16"" global_colors_info=""{}""][/et_pb_wc_upsells][et_pb_wc_related_products _builder_version=""4.16"" global_colors_info=""{}""][/et_pb_wc_related_products][/et_pb_column][/et_pb_row][/et_pb_section]",,"2021-05-16 0:00:00",taxable,,0,,,0,0,1.1,,,,0,,"8,50","9,92",Blancos,"Blanco, matha",,"https://stjoannes.com/wp-content/uploads/2019/12/MATHA-ECO.jpg, https://stjoannes.com/wp-content/uploads/2019/12/MATHA-ECO.jpg, https://stjoannes.com/wp-content/uploads/2019/12/MATHA-ECOcaja.jpg",,,,,STJOANNESB,STJOANNESB,,,0,,Lote,19022,1,1,1,1,1578423237,no,et_no_sidebar,off,on,BB|Divi|3.12.1,,"<strong>Origen:</strong> La Casa Gran, Sant Joan Samora – DO Penedès
+
+Clima mediterráneo cálido, suelos arcillo arenosos
+
+<strong>Graduación:</strong> 14% vol.
+
+<strong>Acidez:</strong> 4.8 g/L
+
+<strong>Presentación:</strong> 75 cl.
+
+<strong>Tipo de cierre:</strong> corcho
+
+<strong>Tipo de vino:</strong> blanco
+
+<strong>Composición varietal: </strong>
+
+Viognier (80%) – Xarel·lo (20%). Viñas ecológicas propias de XX años
+
+<strong>Elaboración:</strong> uva vendimiada manualmente en su punto óptimo de maduración. Fermentación en tinas de acero inoxidable con control de temperatura. Clarificación y estabilización en frío seguida de una ligera filtración. Embotellado en diciembre del 2019
+
+<strong>Nota de cata:</strong> presenta un color amarillo intenso con reflejos dorados. Aromáticamente predominan intensas notas a frutas exóticas y florales, que evolucionan a frutas de hueso en la copa. En la boca resulta envolvente, destacando los recuerdos de albaricoque y melocotón en almívar que dejan paso a una sensación final de calidez elegante
+
+<strong>Sugerencias de armonización:</strong> platos orientales con curry, ensaladas con frutas de hueso, carnes con salsas cremoses, quesos blandos
+
+<strong>Temperatura de Servicio:</strong>  6 – 8ºC
+
+Vino ecológico certificado por el CCPAE (Consell Català de Producció Agrària Ecològica), que controla el proceso de producción, elaboración, envasado y comercialización",,,wc-all,,1,,"<div class=""et_pb_section et_pb_section_0 et_section_regular"" >
+				
+				
+				
+				
+				
+				
+				<div class=""et_pb_row et_pb_row_0"">
+				<div class=""et_pb_column et_pb_column_4_4 et_pb_column_0  et_pb_css_mix_blend_mode_passthrough et-last-child"">
+				
+				
+				
+				
+				<div class=""et_pb_module et_pb_wc_breadcrumb et_pb_wc_breadcrumb_0 et_pb_bg_layout_  et_pb_text_align_left"">
+				
+				
+				
+				
+				
+				
+				<div class=""et_pb_module_inner"">
+					<nav class=""woocommerce-breadcrumb"" aria-label=""Breadcrumb""><a href=""https://stjoannes.com"">Inicio</a>  /  Resultados de búsqueda para &ldquo;&rdquo;</nav>
+				</div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class=""et_pb_row et_pb_row_1"">
+				<div class=""et_pb_column et_pb_column_1_2 et_pb_column_1  et_pb_css_mix_blend_mode_passthrough"">
+				
+				
+				
+				
+				<div class=""et_pb_module et_pb_wc_images et_pb_wc_images_0 et_pb_bg_layout_"">
+				
+				
+				
+				
+				
+				
+				<div class=""et_pb_module_inner"">
+					<div class=""woocommerce-product-gallery woocommerce-product-gallery--with-images woocommerce-product-gallery--columns-4 images"" data-columns=""4"" style=""opacity: 0; transition: opacity .25s ease-in-out;"">
+	<div class=""woocommerce-product-gallery__wrapper"">
+		<div data-thumb=""https://stjoannes.com/wp-content/uploads/2019/12/MATHA-ECO-100x100.jpg"" data-thumb-alt=""BLANCO MATHA 2019 SANT JOANNES ECO"" data-thumb-srcset=""""  data-thumb-sizes="""" class=""woocommerce-product-gallery__image""><a href=""https://stjoannes.com/wp-content/uploads/2019/12/MATHA-ECO.jpg""><img loading=""lazy"" decoding=""async"" width=""900"" height=""900"" src=""https://stjoannes.com/wp-content/uploads/2019/12/MATHA-ECO.jpg"" class=""wp-post-image"" alt=""BLANCO MATHA 2019 SANT JOANNES ECO"" data-caption="""" data-src=""https://stjoannes.com/wp-content/uploads/2019/12/MATHA-ECO.jpg"" data-large_image=""https://stjoannes.com/wp-content/uploads/2019/12/MATHA-ECO.jpg"" data-large_image_width=""900"" data-large_image_height=""900"" srcset=""https://stjoannes.com/wp-content/uploads/2019/12/MATHA-ECO.jpg 900w, https://stjoannes.com/wp-content/uploads/2019/12/MATHA-ECO-480x480.jpg 480w"" sizes=""(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 900px, 100vw"" /></a></div><div data-thumb=""https://stjoannes.com/wp-content/uploads/2019/12/MATHA-ECO-100x100.jpg"" data-thumb-alt=""BLANCO MATHA 2019 SANT JOANNES ECO - Imagen 2"" data-thumb-srcset=""""  data-thumb-sizes="""" class=""woocommerce-product-gallery__image""><a href=""https://stjoannes.com/wp-content/uploads/2019/12/MATHA-ECO.jpg""><img loading=""lazy"" decoding=""async"" width=""900"" height=""900"" src=""https://stjoannes.com/wp-content/uploads/2019/12/MATHA-ECO.jpg"" class="""" alt=""BLANCO MATHA 2019 SANT JOANNES ECO - Imagen 2"" data-caption="""" data-src=""https://stjoannes.com/wp-content/uploads/2019/12/MATHA-ECO.jpg"" data-large_image=""https://stjoannes.com/wp-content/uploads/2019/12/MATHA-ECO.jpg"" data-large_image_width=""900"" data-large_image_height=""900"" srcset=""https://stjoannes.com/wp-content/uploads/2019/12/MATHA-ECO.jpg 900w, https://stjoannes.com/wp-content/uploads/2019/12/MATHA-ECO-480x480.jpg 480w"" sizes=""(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 900px, 100vw"" /></a></div><div data-thumb=""https://stjoannes.com/wp-content/uploads/2019/12/MATHA-ECOcaja-100x100.jpg"" data-thumb-alt=""BLANCO MATHA 2019 SANT JOANNES ECO - Imagen 3"" data-thumb-srcset=""https://stjoannes.com/wp-content/uploads/2019/12/MATHA-ECOcaja-100x100.jpg 100w, https://stjoannes.com/wp-content/uploads/2019/12/MATHA-ECOcaja-150x150.jpg 150w, https://stjoannes.com/wp-content/uploads/2019/12/MATHA-ECOcaja.jpg 300w""  data-thumb-sizes=""(max-width: 100px) 100vw, 100px"" class=""woocommerce-product-gallery__image""><a href=""https://stjoannes.com/wp-content/uploads/2019/12/MATHA-ECOcaja.jpg""><img loading=""lazy"" decoding=""async"" width=""300"" height=""300"" src=""https://stjoannes.com/wp-content/uploads/2019/12/MATHA-ECOcaja.jpg"" class="""" alt=""BLANCO MATHA 2019 SANT JOANNES ECO - Imagen 3"" data-caption="""" data-src=""https://stjoannes.com/wp-content/uploads/2019/12/MATHA-ECOcaja.jpg"" data-large_image=""https://stjoannes.com/wp-content/uploads/2019/12/MATHA-ECOcaja.jpg"" data-large_image_width=""300"" data-large_image_height=""300"" srcset=""https://stjoannes.com/wp-content/uploads/2019/12/MATHA-ECOcaja.jpg 300w, https://stjoannes.com/wp-content/uploads/2019/12/MATHA-ECOcaja-100x100.jpg 100w, https://stjoannes.com/wp-content/uploads/2019/12/MATHA-ECOcaja-150x150.jpg 150w"" sizes=""(max-width: 300px) 100vw, 300px"" /></a></div>	</div>
+</div>
+
+				</div>
+			</div>
+			</div><div class=""et_pb_column et_pb_column_1_2 et_pb_column_2  et_pb_css_mix_blend_mode_passthrough et-last-child"">
+				
+				
+				
+				
+				<div class=""et_pb_module et_pb_wc_title et_pb_wc_title_0 et_pb_bg_layout_light"">
+				
+				
+				
+				
+				
+				
+				<div class=""et_pb_module_inner"">
+					
+		<h1>BLANCO MATHA 2019 SANT JOANNES ECO</h1>
+				</div>
+			</div><div class=""et_pb_module et_pb_wc_price et_pb_wc_price_0"">
+				
+				
+				
+				
+				
+				
+				<div class=""et_pb_module_inner"">
+					<p class=""price""><span class=""woocommerce-Price-amount amount""><bdi>9,92&nbsp;<span class=""woocommerce-Price-currencySymbol"">&euro;</span></bdi></span> <small class=""woocommerce-price-suffix"">Sin Iva</small></p>
+
+				</div>
+			</div><div class=""et_pb_module et_pb_wc_description et_pb_wc_description_0 et_pb_bg_layout_light  et_pb_text_align_left"">
+				
+				
+				
+				
+				
+				
+				<div class=""et_pb_module_inner"">
+					<p>PEDIDO MÍNIMO 1 CAJA<br />
+CADA CAJA CONTIENE<br />
+6 BOTELLAS DE 75cl.</p>
+<p>Precio Caja  72€ (IVA Incluído)</p>
+
+				</div>
+			</div><div class=""et_pb_module et_pb_wc_add_to_cart et_pb_wc_add_to_cart_0 et_pb_fields_label_position_default et_pb_bg_layout_  et_pb_text_align_left"">
+				
+				
+				
+				
+				
+				
+				<div class=""et_pb_module_inner"">
+					<p class=""stock out-of-stock"">Sin existencias</p>
+
+				</div>
+			</div><div class=""et_pb_module et_pb_wc_meta et_pb_wc_meta_0 et_pb_bg_layout_ et_pb_wc_meta_layout_inline"">
+				
+				
+				
+				
+				
+				
+				<div class=""et_pb_module_inner"">
+					<div class=""product_meta"">
+
+	
+	
+		<span class=""sku_wrapper"">SKU: <span class=""sku"">MATHA</span></span>
+
+	
+	<span class=""posted_in"">Categoría: <a href=""https://stjoannes.com/categoria-producto/blancos"" rel=""tag"">Blancos</a></span>
+	<span class=""tagged_as"">Etiquetas: <a href=""https://stjoannes.com/etiqueta-producto/blanco"" rel=""tag"">Blanco</a>, <a href=""https://stjoannes.com/etiqueta-producto/matha"" rel=""tag"">matha</a></span>
+	
+</div>
+
+				</div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class=""et_pb_row et_pb_row_2"">
+				<div class=""et_pb_column et_pb_column_4_4 et_pb_column_3  et_pb_css_mix_blend_mode_passthrough et-last-child"">
+				
+				
+				
+				
+				<div class=""et_pb_module et_pb_wc_tabs et_pb_wc_tabs_0 et_pb_tabs "" >
+				
+				
+				
+				
+				<ul class=""et_pb_tabs_controls clearfix"">
+					<li class=""description_tab et_pb_tab_active""><a href=""#tab-description"">Descripción</a></li><li class=""additional_information_tab""><a href=""#tab-additional_information"">Información adicional</a></li><li class=""wcpoa_product_tab_tab""><a href=""#tab-wcpoa_product_tab"">Attachment</a></li>
+				</ul>
+				<div class=""et_pb_all_tabs"">
+					<div class=""et_pb_tab clearfix et_pb_active_content"">
+					<div class=""et_pb_tab_content"">
+						<p><strong>Origen:</strong> La Casa Gran, Sant Joan Samora – DO Penedès</p>
+<p>Clima mediterráneo cálido, suelos arcillo arenosos</p>
+<p><strong>Graduación:</strong> 14% vol.</p>
+<p><strong>Acidez:</strong> 4.8 g/L</p>
+<p><strong>Presentación:</strong> 75 cl.</p>
+<p><strong>Tipo de cierre:</strong> corcho</p>
+<p><strong>Tipo de vino:</strong> blanco</p>
+<p><strong>Composición varietal: </strong></p>
+<p>Viognier (80%) – Xarel·lo (20%). Viñas ecológicas propias de XX años</p>
+<p><strong>Elaboración:</strong> uva vendimiada manualmente en su punto óptimo de maduración. Fermentación en tinas de acero inoxidable con control de temperatura. Clarificación y estabilización en frío seguida de una ligera filtración. Embotellado en diciembre del 2019</p>
+<p><strong>Nota de cata:</strong> presenta un color amarillo intenso con reflejos dorados. Aromáticamente predominan intensas notas a frutas exóticas y florales, que evolucionan a frutas de hueso en la copa. En la boca resulta envolvente, destacando los recuerdos de albaricoque y melocotón en almívar que dejan paso a una sensación final de calidez elegante</p>
+<p><strong>Sugerencias de armonización:</strong> platos orientales con curry, ensaladas con frutas de hueso, carnes con salsas cremoses, quesos blandos</p>
+<p><strong>Temperatura de Servicio:</strong>  6 – 8ºC</p>
+<p>Vino ecológico certificado por el CCPAE (Consell Català de Producció Agrària Ecològica), que controla el proceso de producción, elaboración, envasado y comercialización</p>
+
+					</div>
+				</div><div class=""et_pb_tab clearfix"">
+					<div class=""et_pb_tab_content"">
+						
+	<h2>Información adicional</h2>
+
+<table class=""woocommerce-product-attributes shop_attributes"" aria-label=""Detalles del producto"">
+			<tr class=""woocommerce-product-attributes-item woocommerce-product-attributes-item--weight"">
+			<th class=""woocommerce-product-attributes-item__label"" scope=""row"">Peso</th>
+			<td class=""woocommerce-product-attributes-item__value"">1,1 kg</td>
+		</tr>
+			<tr class=""woocommerce-product-attributes-item woocommerce-product-attributes-item--attribute_pa_lote"">
+			<th class=""woocommerce-product-attributes-item__label"" scope=""row"">Lote</th>
+			<td class=""woocommerce-product-attributes-item__value""><p>19022</p>
+</td>
+		</tr>
+	</table>
+
+					</div>
+				</div><div class=""et_pb_tab clearfix"">
+					<div class=""et_pb_tab_content"">
+						<p class=""attachment-restriction-msg""></p>            <style type=""text/css"">
+            #tab-title-wcpoa_product_tab, [id$=""wcpoa_product_tab""], .wcpoa_product_tab_tab {
+                display: none !important;
+            }
+            </style>
+                        <style type=""text/css"" class=""custom_css_call_inline"">
+                        </style>
+            
+					</div>
+				</div>
+				</div>
+			</div><div class=""et_pb_module et_pb_wc_upsells et_pb_wc_upsells_0 et_pb_bg_layout_"">
+				
+				
+				
+				
+				
+				
+				<div class=""et_pb_module_inner"">
+					
+	<section class=""up-sells upsells products"">
+					<h2>También te recomendamos&hellip;</h2>
+		
+		<ul class=""products columns-3"">
+
+			
+				<li class=""product type-product post-987456327 status-publish first outofstock product_cat-blancos product_tag-blanco has-post-thumbnail taxable shipping-taxable purchasable product-type-simple"">
+	<a href=""https://stjoannes.com/producto/sant-joannes"" class=""woocommerce-LoopProduct-link woocommerce-loop-product__link""><span class=""et_shop_image""><img loading=""lazy"" decoding=""async"" width=""600"" height=""600"" src=""https://stjoannes.com/wp-content/uploads/2019/12/SANT-JOANNES-XAREL-LO-2019-600x600.jpg"" class=""attachment-woocommerce_thumbnail size-woocommerce_thumbnail"" alt=""BLANCO SANT JOANNES XAREL-LO 2019 ECO"" srcset=""https://stjoannes.com/wp-content/uploads/2019/12/SANT-JOANNES-XAREL-LO-2019-600x600.jpg 600w, https://stjoannes.com/wp-content/uploads/2019/12/SANT-JOANNES-XAREL-LO-2019-480x480.jpg 480w"" sizes=""(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 600px, 100vw"" /><span class=""et_overlay""></span></span><h2 class=""woocommerce-loop-product__title"">BLANCO SANT JOANNES XAREL-LO 2019 ECO</h2>
+	<span class=""price""><span class=""woocommerce-Price-amount amount""><bdi>7,19&nbsp;<span class=""woocommerce-Price-currencySymbol"">&euro;</span></bdi></span> <small class=""woocommerce-price-suffix"">Sin Iva</small></span>
+<a data-quantity=""6"" href=""https://stjoannes.com/producto/sant-joannes"" aria-describedby=""woocommerce_loop_add_to_cart_link_describedby_987456327"" data-quantity=""1"" class=""button product_type_simple"" data-product_id=""987456327"" data-product_sku=""STJOANNESB"" aria-label=""Lee más sobre &ldquo;BLANCO SANT JOANNES XAREL-LO 2019 ECO&rdquo;"" rel=""nofollow"" data-success_message="""" data-product_image_src=""https://stjoannes.com/wp-content/uploads/2019/12/SANT-JOANNES-XAREL-LO-2019-600x600.jpg"" data-product_image_width=""600"" data-product_image_height=""600"">Leer más</a>	<span id=""woocommerce_loop_add_to_cart_link_describedby_987456327"" class=""screen-reader-text"">
+			</span>
+</a></li>
+
+			
+		</ul>
+
+	</section>
+
+	
+				</div>
+			</div><div class=""et_pb_module et_pb_wc_related_products et_pb_wc_related_products_0 et_pb_bg_layout_"">
+				
+				
+				
+				
+				
+				
+				<div class=""et_pb_module_inner"">
+					
+	<section class=""related products"">
+
+					<h2>Productos relacionados</h2>
+				<ul class=""products columns-3"">
+
+			
+					<li class=""product type-product post-987459754 status-publish first instock product_cat-blancos product_tag-blanco product_tag-novedad has-post-thumbnail taxable shipping-taxable purchasable product-type-simple"">
+	<a href=""https://stjoannes.com/producto/st-joannes-blanco-21"" class=""woocommerce-LoopProduct-link woocommerce-loop-product__link""><span class=""et_shop_image""><img loading=""lazy"" decoding=""async"" width=""600"" height=""600"" src=""https://stjoannes.com/wp-content/uploads/2022/03/ST-JOANNES-BLANCO-21-600x600.jpg"" class=""attachment-woocommerce_thumbnail size-woocommerce_thumbnail"" alt=""ST JOANNES BLANCO 21"" srcset=""https://stjoannes.com/wp-content/uploads/2022/03/ST-JOANNES-BLANCO-21-600x600.jpg 600w, https://stjoannes.com/wp-content/uploads/2022/03/ST-JOANNES-BLANCO-21-480x480.jpg 480w"" sizes=""(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 600px, 100vw"" /><span class=""et_overlay""></span></span><h2 class=""woocommerce-loop-product__title"">ST JOANNES BLANCO 21</h2>
+	<span class=""price""><span class=""woocommerce-Price-amount amount""><bdi>15,00&nbsp;<span class=""woocommerce-Price-currencySymbol"">&euro;</span></bdi></span> <small class=""woocommerce-price-suffix"">Sin Iva</small></span>
+<a data-quantity=""6"" href=""/?s&#038;add-to-cart=987459754"" aria-describedby=""woocommerce_loop_add_to_cart_link_describedby_987459754"" data-quantity=""1"" class=""button product_type_simple add_to_cart_button ajax_add_to_cart"" data-product_id=""987459754"" data-product_sku=""STJOANNESB21-1"" aria-label=""Añadir al carrito: &ldquo;ST JOANNES BLANCO 21&rdquo;"" rel=""nofollow"" data-success_message=""«ST JOANNES BLANCO 21» se ha añadido a tu carrito"" data-product_image_src=""https://stjoannes.com/wp-content/uploads/2022/03/ST-JOANNES-BLANCO-21-600x600.jpg"" data-product_image_width=""600"" data-product_image_height=""600"">Añadir al carrito</a>	<span id=""woocommerce_loop_add_to_cart_link_describedby_987459754"" class=""screen-reader-text"">
+			</span>
+</a></li>
+
+			
+					<li class=""product type-product post-987459676 status-publish instock product_cat-blancos product_tag-blanco product_tag-matha product_tag-novedad has-post-thumbnail taxable shipping-taxable purchasable product-type-simple"">
+	<a href=""https://stjoannes.com/producto/blanco-matha-2020"" class=""woocommerce-LoopProduct-link woocommerce-loop-product__link""><span class=""et_shop_image""><img loading=""lazy"" decoding=""async"" width=""600"" height=""600"" src=""https://stjoannes.com/wp-content/uploads/2021/03/BLANCO-MATHA-2020PREMIO-600x600.jpg"" class=""attachment-woocommerce_thumbnail size-woocommerce_thumbnail"" alt=""BLANCO MATHA 2020 SANT JOANNES ECO"" srcset=""https://stjoannes.com/wp-content/uploads/2021/03/BLANCO-MATHA-2020PREMIO-600x600.jpg 600w, https://stjoannes.com/wp-content/uploads/2021/03/BLANCO-MATHA-2020PREMIO-480x480.jpg 480w"" sizes=""(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 600px, 100vw"" /><span class=""et_overlay""></span></span><h2 class=""woocommerce-loop-product__title"">BLANCO MATHA 2020 SANT JOANNES ECO</h2>
+	<span class=""price""><span class=""woocommerce-Price-amount amount""><bdi>9,00&nbsp;<span class=""woocommerce-Price-currencySymbol"">&euro;</span></bdi></span> <small class=""woocommerce-price-suffix"">Sin Iva</small></span>
+<a data-quantity=""6"" href=""/?s&#038;add-to-cart=987459676"" aria-describedby=""woocommerce_loop_add_to_cart_link_describedby_987459676"" data-quantity=""1"" class=""button product_type_simple add_to_cart_button ajax_add_to_cart"" data-product_id=""987459676"" data-product_sku=""STJOANNESB20"" aria-label=""Añadir al carrito: &ldquo;BLANCO MATHA 2020 SANT JOANNES ECO&rdquo;"" rel=""nofollow"" data-success_message=""«BLANCO MATHA 2020 SANT JOANNES ECO» se ha añadido a tu carrito"" data-product_image_src=""https://stjoannes.com/wp-content/uploads/2021/03/BLANCO-MATHA-2020PREMIO-600x600.jpg"" data-product_image_width=""600"" data-product_image_height=""600"">Añadir al carrito</a>	<span id=""woocommerce_loop_add_to_cart_link_describedby_987459676"" class=""screen-reader-text"">
+			</span>
+</a></li>
+
+			
+					<li class=""product type-product post-987531830 status-publish last instock product_cat-blancos product_tag-blanco product_tag-matha product_tag-novedad has-post-thumbnail taxable shipping-taxable purchasable product-type-simple"">
+	<a href=""https://stjoannes.com/producto/blanco-matha-2021-sant-joannes-eco-copia"" class=""woocommerce-LoopProduct-link woocommerce-loop-product__link""><span class=""et_shop_image""><img loading=""lazy"" decoding=""async"" width=""600"" height=""600"" src=""https://stjoannes.com/wp-content/uploads/2023/03/BLANCO-MATHA-2021-600x600.jpg"" class=""attachment-woocommerce_thumbnail size-woocommerce_thumbnail"" alt=""BLANCO MATHA 2021 SANT JOANNES ECO"" srcset=""https://stjoannes.com/wp-content/uploads/2023/03/BLANCO-MATHA-2021-600x600.jpg 600w, https://stjoannes.com/wp-content/uploads/2023/03/BLANCO-MATHA-2021-480x480.jpg 480w"" sizes=""(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 600px, 100vw"" /><span class=""et_overlay""></span></span><h2 class=""woocommerce-loop-product__title"">BLANCO MATHA 2021 SANT JOANNES ECO</h2>
+	<span class=""price""><span class=""woocommerce-Price-amount amount""><bdi>13,00&nbsp;<span class=""woocommerce-Price-currencySymbol"">&euro;</span></bdi></span> <small class=""woocommerce-price-suffix"">Sin Iva</small></span>
+<a data-quantity=""6"" href=""/?s&#038;add-to-cart=987531830"" aria-describedby=""woocommerce_loop_add_to_cart_link_describedby_987531830"" data-quantity=""1"" class=""button product_type_simple add_to_cart_button ajax_add_to_cart"" data-product_id=""987531830"" data-product_sku=""STJOANNESB21"" aria-label=""Añadir al carrito: &ldquo;BLANCO MATHA 2021 SANT JOANNES ECO&rdquo;"" rel=""nofollow"" data-success_message=""«BLANCO MATHA 2021 SANT JOANNES ECO» se ha añadido a tu carrito"" data-product_image_src=""https://stjoannes.com/wp-content/uploads/2023/03/BLANCO-MATHA-2021-600x600.jpg"" data-product_image_width=""600"" data-product_image_height=""600"">Añadir al carrito</a>	<span id=""woocommerce_loop_add_to_cart_link_describedby_987531830"" class=""screen-reader-text"">
+			</span>
+</a></li>
+
+			
+		</ul>
+
+	</section>
+	
+				</div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div>
+				
+				
+			</div>
+",0,1,"2025-11-26 19:49:44",,6,,6,no,no,no,0,90,1,,dont-sync-and-show,deleted,2019-12-13,off,page,,"[et_pb_split_track id=""987456328"" /]",3,et_build_from_scratch,modified,{},label,,red,none,#D9534F,#fff,,no,,
+987458994,simple,T2009-1,,"SANT JOANNES VINO TINTO 2013",1,0,visible,"PEDIDO MÍNIMO 1 CAJA\nCADA CAJA CONTIENE\n6 BOTELLAS DE 75cl.\n\nPrecio Caja  36€ (IVA Incluído)","<strong>Origen:</strong> La Casa Gran, Sant Joan Samora – DO Penedès\n\nClima mediterráneo cálido, suelos arcillo arenosos\n\n<strong>Graduación:</strong> 14.5% vol.\n\n<strong>Acidez:</strong> 5.5 g/L\n\n<strong>Presentación:</strong> 75 cl.\n\n<strong>Tipo de cierre:</strong> corcho\n\n<strong>Tipo de vino:</strong> tinto\n\n&nbsp;\n\n<strong>Composición varietal: </strong>\n\n× Cabernet sauvignon 90%. Viñas ecológicas propias, XX años de edad\n\n×  Tempranillo 10%. Viñas ecológicas propias, XX años de edad. Cepas conducidas <em>en vas</em> (formas libres tradicionales)\n\n&nbsp;\n\n<strong>Elaboración:</strong> uva vendimiada manualment en su punto óptimo de maduración. Fermentación en tinas troncocónicas de acero inoxidable con control de temperatura y remontados diarios, seguido de un prensado ligero para preservar la elegancia del vino\n\n<strong>Crianza:</strong> envejecimiento en barricas de roble francés de 225 L durante 15 meses. Desde su embotellado (abril 2014) ha permanecido en los <em>cups</em> de la bodega, a temperatura y humedad constantes, que favorecen su evolución\n\n<strong>Nota de cata:</strong> en vista resulta intenso, con un color rojo rubí subido, capa consistente y ribete granatoso. Nariz amable, en la que dominan las notas balsámicas (eucalipto),  y un sutil recuerdo a especias ahumadas  (cedro, vainilla), bien acompañados con los toques de la variedad Cabernet sauvignon madura: ciruelas y confituras. En boca es potente, mostrando unos taninos dulces, con un final persistente y muy agradable que recuerda a frutos secos tostados\n\n&nbsp;\n\n<strong>Sugerencias de armonización:</strong> platos estofados de caza (jabalí, ciervo), carnes rojas, chocolate\n\n<strong>Temperatura de Servicio:</strong>  14 – 16ºC\n\n&nbsp;\n\n<em>Este vino puede presentar sedimentos de sales tartáricas debido a que no se ha sometido a ningún tratamiento físico ni químico durante su elaboración.</em>\n\n&nbsp;\n\n[button link=""https://stjoannes.com/wp-content/uploads/2019/06/Ficha-st-joannes-2012.pdf"" type=""icon"" color=""silver"" newwindow=""yes""] Ficha Técnica[/button]",,"2021-05-16 0:00:00",taxable,,0,,,0,0,1.1,,,,0,,4,"4,96",Tintos,tinto,,"https://stjoannes.com/wp-content/uploads/2020/03/ST-JOANNES-TINTO-13-1.jpg, https://stjoannes.com/wp-content/uploads/2019/06/premio.jpg, https://stjoannes.com/wp-content/uploads/2020/03/ST-JOANNES-TINTO-13.jpg, https://stjoannes.com/wp-content/uploads/2020/03/ST-JOANNES-TINTO-13caja.jpg",,,,,"MATHA, STJOANNESB","MATHA, STJOANNESB",,,0,,,,,,1,1,1576254256,default,et_no_sidebar,off,,BB|Divi|3.25.3,hourly,,,,wc-all,,1,,,0,1,,,6,,6,no,no,no,0,90,2,,dont-sync-and-show,deleted,2020-03-06,,,,,,,,,,,,,,,,,,
+987459520,simple,T2009-1-1,,"SANT JOANNES VINO TINTO 2019 ECO",1,0,visible,"PEDIDO MÍNIMO 1 CAJA\nCADA CAJA CONTIENE\n6 BOTELLAS DE 75cl.\n\nPrecio Caja  79,86 € (IVA Incluído)","Sant Joannes 2019 – Cabernet sauvignon\n\n<strong> </strong>\n\n<img class=""aligncenter size-medium wp-image-987459777"" src=""https://stjoannes.com/wp-content/uploads/2020/06/Concurso-Vinos-Real-Casino-Madrid-2022-Medalla-Plata-600x600_p-300x300.png"" alt="""" width=""300"" height=""300"" />\n\n<strong>Premio:  </strong>Plata 2022 - concurso del Casino de Madrid\n\n<strong>Origen:</strong> La Casa Gran, Sant Joan Samora – DO Penedès\n\nClima mediterráneo cálido, suelos arcillo arenosos\n\n<strong>Graduación:</strong> 14,5% vol.\n\n<strong>Acidez:</strong> 5,3 g/l de ácido tartárico\n\n<strong>Presentación:</strong> 75 cl.\n\n<strong>Tipo de cierre:</strong> corcho\n\n<strong>Tipo de vino:</strong> tinto\n\n<strong>Composición varietal:</strong> Cabernet sauvignon 90% - Syrah 10%\n\nViñas de la propiedad ecológicas\n\n<strong>Elaboración:</strong> la uva se vendimia en su punto optimo de maduración fenòlica. Fermentación en tinas de acero inoxidable con control de temperatura y remontados diarios. Se realiza el sangrado y el vino se trasiega sin mezclarlo con el prensado. Estabilización espontanea con el frío del invierno, ligera clarificación y filtración suave. Embotellado en junio del 2020.\n\n<strong>Nota de cata:</strong> color granate intenso con tintes violáceos, pràcticamente opaco, y lágrimas tintadas. Aromáticamente destacan las frutas de bosque maduras, incluso con matices confitados. En boca es potente, destacando unos taninos maduros y envolventes, con un paso de boca en que sobresalen las sensaciones de volumen, y a la vez el frescor de las frutas con recuerdos balsámicos\n\n<strong>Sugerencias de armonización:</strong> carnes rojas, Embutidos, postres con cacao, quesos cremosos potentes\n\n<strong>Temperatura de Servicio:</strong>  15 - 17ºC\n\nVino ecológico certificado por el CCPAE (Consell Català de Producció Agrària Ecològica), que controla el proceso de producción, elaboración, envasado y comercialización\n\n&nbsp;\n\n[button link=""https://stjoannes.com/wp-content/uploads/2019/06/Ficha-st-joannes-2012.pdf"" type=""icon"" color=""silver"" newwindow=""yes""] Ficha Técnica[/button]",,"2021-05-15 0:00:00",taxable,,1,,,0,0,1.1,,,,0,,8,11,Tintos,tinto,,"https://stjoannes.com/wp-content/uploads/2020/06/stjoannes-tinto-2019-PREMIO.jpg, https://stjoannes.com/wp-content/uploads/2019/06/premio.jpg, https://stjoannes.com/wp-content/uploads/2020/06/Concurso-Vinos-Real-Casino-Madrid-2022-Medalla-Plata-600x600_p.png, https://stjoannes.com/wp-content/uploads/2020/06/stjoannes-tinto-2019CAJA.jpg, https://stjoannes.com/wp-content/uploads/2020/06/stjoannes-tinto-2019.jpg, https://stjoannes.com/wp-content/uploads/2020/06/stjoannes-tinto-2019-PREMIO.jpg",,,,,"MATHA, STJOANNESB","MATHA, STJOANNESB",,,0,,Lote,19022,1,1,1,1,1576254256,default,et_no_sidebar,off,,BB|Divi|3.25.3,hourly,,,,wc-all,,1,,,0,1,,,6,,6,no,no,no,0,90,2,,dont-sync-and-show,deleted,2020-06-24,,,,,,,,,,,,,,,,,,
+987459527,simple,MATHA-1,,"TINTO MATHA 2019 ECO",1,0,visible,"PEDIDO MÍNIMO 1 CAJA\nCADA CAJA CONTIENE\n6 BOTELLAS DE 75cl.\n\nPrecio Caja  72€ (IVA Incluído)","[et_pb_section fb_built=""1"" _builder_version=""4.16"" custom_padding=""0px||||false|false"" global_colors_info=""{}""][et_pb_row _builder_version=""4.16"" background_size=""initial"" background_position=""top_left"" background_repeat=""repeat"" width=""100%"" custom_padding=""0px||0px||false|false"" global_colors_info=""{}""][et_pb_column type=""4_4"" _builder_version=""4.16"" custom_padding=""|||"" global_colors_info=""{}"" custom_padding__hover=""|||""][et_pb_wc_breadcrumb _builder_version=""4.16"" global_colors_info=""{}""][/et_pb_wc_breadcrumb][et_pb_wc_cart_notice _builder_version=""4.16"" global_colors_info=""{}""][/et_pb_wc_cart_notice][/et_pb_column][/et_pb_row][et_pb_row column_structure=""1_2,1_2"" _builder_version=""4.16"" background_size=""initial"" background_position=""top_left"" background_repeat=""repeat"" width=""100%"" custom_padding=""0px||||false|false"" global_colors_info=""{}""][et_pb_column type=""1_2"" _builder_version=""4.16"" custom_padding=""|||"" global_colors_info=""{}"" custom_padding__hover=""|||""][et_pb_wc_images _builder_version=""4.16"" global_colors_info=""{}""][/et_pb_wc_images][/et_pb_column][et_pb_column type=""1_2"" _builder_version=""4.16"" custom_padding=""|||"" global_colors_info=""{}"" custom_padding__hover=""|||""][et_pb_wc_title _builder_version=""4.16"" global_colors_info=""{}""][/et_pb_wc_title][et_pb_wc_rating _builder_version=""4.16"" global_colors_info=""{}""][/et_pb_wc_rating][et_pb_wc_price _builder_version=""4.16"" global_colors_info=""{}""][/et_pb_wc_price][et_pb_wc_description _builder_version=""4.16"" global_colors_info=""{}""][/et_pb_wc_description][et_pb_wc_add_to_cart _builder_version=""4.16"" global_colors_info=""{}""][/et_pb_wc_add_to_cart][et_pb_wc_meta _builder_version=""4.16"" global_colors_info=""{}""][/et_pb_wc_meta][/et_pb_column][/et_pb_row][et_pb_row _builder_version=""4.16"" background_size=""initial"" background_position=""top_left"" background_repeat=""repeat"" width=""100%"" global_colors_info=""{}""][et_pb_column type=""4_4"" _builder_version=""4.16"" custom_padding=""|||"" global_colors_info=""{}"" custom_padding__hover=""|||""][et_pb_wc_tabs _builder_version=""4.16"" global_colors_info=""{}""]					[/et_pb_wc_tabs][et_pb_wc_upsells _builder_version=""4.16"" global_colors_info=""{}""][/et_pb_wc_upsells][et_pb_wc_related_products _builder_version=""4.16"" global_colors_info=""{}""][/et_pb_wc_related_products][/et_pb_column][/et_pb_row][/et_pb_section]",,,taxable,,0,,,0,0,1.1,,,,0,,,"5,042",Tintos,"matha, tinto",,"https://stjoannes.com/wp-content/uploads/2020/06/TINTO-MATHA-2019.jpg, https://stjoannes.com/wp-content/uploads/2020/06/TINTO-MATHA-2019.jpg, https://stjoannes.com/wp-content/uploads/2020/06/TINTO-MATHA-2019caja.jpg",,,,,STJOANNESB,STJOANNESB,,,0,,Lote,19012,1,1,1,1,1578423237,no,et_no_sidebar,off,on,VB|Divi|4.7.5,,"<strong>Origen:</strong> La Casa Gran, Sant Joan Samora – DO Penedès
+
+Clima mediterráneo cálido, suelos arcillo arenosos
+
+<strong>Graduación:</strong> 13% vol.
+
+<strong>Acidez:</strong> 4,7 g/l de ácido tartárico
+
+<strong>Presentación:</strong> 75 cl.
+
+<strong>Tipo de cierre:</strong> corcho
+
+<strong>Tipo de vino:</strong> tinto
+
+<strong>Composición varietal:</strong> Syrah 70% - Cabernet sauvignon 30%
+
+Viñas de la propiedad ecológicas
+
+<strong>Elaboración:</strong> la uva se vendimia en su punto optimo de maduración. Fermentación en tinas de acero inoxidable con control de temperatura y remontados diarios durante 12 días, tras los cuales se prensa. Se introdujo en barricas usadas durante cuatro meses, durante los cuales se produjo la estabilización espontanea con el frío del invierno,  seguido de una ligera clarificación y filtración suave. Embotellado en junio del 2020.
+
+<strong>Nota de cata:</strong> rojo brillante con matices azulados, intensidad media. Olfativamente aparecen los tostados bien integrados con los recuerdos a frutos rojos frescos. En boca es fino, con una agradable entrada, un paso relativamente ligero y unos taninos frescos y suaves. Los aromas en boca recuerdan al bosque mediterráneo, a tarta de fresa
+
+<strong>Sugerencias de armonización:</strong> pastas, parrilladas de carne y verduras, carnes blancas con salsas cremosas
+
+<strong>Temperatura de Servicio:</strong>  15 - 17ºC
+
+Vino ecológico certificado por el CCPAE (Consell Català de Producció Agrària Ecològica), que controla el proceso de producción, elaboración, envasado y comercialización",,,wc-all,,1,,"<div class=""et_pb_section et_pb_section_0 et_section_regular"" >
+				
+				
+				
+				
+				
+				
+				<div class=""et_pb_row et_pb_row_0"">
+				<div class=""et_pb_column et_pb_column_4_4 et_pb_column_0  et_pb_css_mix_blend_mode_passthrough et-last-child"">
+				
+				
+				
+				
+				<div class=""et_pb_module et_pb_wc_breadcrumb et_pb_wc_breadcrumb_0 et_pb_bg_layout_  et_pb_text_align_left"">
+				
+				
+				
+				
+				
+				
+				<div class=""et_pb_module_inner"">
+					<nav class=""woocommerce-breadcrumb"" aria-label=""Breadcrumb""><a href=""https://stjoannes.com"">Inicio</a>  /  Resultados de búsqueda para &ldquo;1&rdquo;</nav>
+				</div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class=""et_pb_row et_pb_row_1"">
+				<div class=""et_pb_column et_pb_column_1_2 et_pb_column_1  et_pb_css_mix_blend_mode_passthrough"">
+				
+				
+				
+				
+				<div class=""et_pb_module et_pb_wc_images et_pb_wc_images_0 et_pb_bg_layout_"">
+				
+				
+				
+				
+				
+				
+				<div class=""et_pb_module_inner"">
+					<div class=""woocommerce-product-gallery woocommerce-product-gallery--with-images woocommerce-product-gallery--columns-4 images"" data-columns=""4"" style=""opacity: 0; transition: opacity .25s ease-in-out;"">
+	<div class=""woocommerce-product-gallery__wrapper"">
+		<div data-thumb=""https://stjoannes.com/wp-content/uploads/2020/06/TINTO-MATHA-2019-100x100.jpg"" data-thumb-alt="""" class=""woocommerce-product-gallery__image""><a href=""https://stjoannes.com/wp-content/uploads/2020/06/TINTO-MATHA-2019.jpg""><img fetchpriority=""high"" decoding=""async"" width=""900"" height=""900"" src=""https://stjoannes.com/wp-content/uploads/2020/06/TINTO-MATHA-2019.jpg"" class=""wp-post-image"" alt="""" title=""TINTO MATHA 2019"" data-caption="""" data-src=""https://stjoannes.com/wp-content/uploads/2020/06/TINTO-MATHA-2019.jpg"" data-large_image=""https://stjoannes.com/wp-content/uploads/2020/06/TINTO-MATHA-2019.jpg"" data-large_image_width=""900"" data-large_image_height=""900"" srcset=""https://stjoannes.com/wp-content/uploads/2020/06/TINTO-MATHA-2019.jpg 900w, https://stjoannes.com/wp-content/uploads/2020/06/TINTO-MATHA-2019-480x480.jpg 480w"" sizes=""(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 900px, 100vw"" /></a></div><div data-thumb=""https://stjoannes.com/wp-content/uploads/2020/06/TINTO-MATHA-2019-100x100.jpg"" data-thumb-alt="""" class=""woocommerce-product-gallery__image""><a href=""https://stjoannes.com/wp-content/uploads/2020/06/TINTO-MATHA-2019.jpg""><img loading=""lazy"" decoding=""async"" width=""900"" height=""900"" src=""https://stjoannes.com/wp-content/uploads/2020/06/TINTO-MATHA-2019.jpg"" class="""" alt="""" title=""TINTO MATHA 2019"" data-caption="""" data-src=""https://stjoannes.com/wp-content/uploads/2020/06/TINTO-MATHA-2019.jpg"" data-large_image=""https://stjoannes.com/wp-content/uploads/2020/06/TINTO-MATHA-2019.jpg"" data-large_image_width=""900"" data-large_image_height=""900"" srcset=""https://stjoannes.com/wp-content/uploads/2020/06/TINTO-MATHA-2019.jpg 900w, https://stjoannes.com/wp-content/uploads/2020/06/TINTO-MATHA-2019-480x480.jpg 480w"" sizes=""(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 900px, 100vw"" /></a></div><div data-thumb=""https://stjoannes.com/wp-content/uploads/2020/06/TINTO-MATHA-2019caja-100x100.jpg"" data-thumb-alt="""" class=""woocommerce-product-gallery__image""><a href=""https://stjoannes.com/wp-content/uploads/2020/06/TINTO-MATHA-2019caja.jpg""><img loading=""lazy"" decoding=""async"" width=""300"" height=""300"" src=""https://stjoannes.com/wp-content/uploads/2020/06/TINTO-MATHA-2019caja.jpg"" class="""" alt="""" title=""TINTO-MATHA-2019caja"" data-caption="""" data-src=""https://stjoannes.com/wp-content/uploads/2020/06/TINTO-MATHA-2019caja.jpg"" data-large_image=""https://stjoannes.com/wp-content/uploads/2020/06/TINTO-MATHA-2019caja.jpg"" data-large_image_width=""300"" data-large_image_height=""300"" srcset=""https://stjoannes.com/wp-content/uploads/2020/06/TINTO-MATHA-2019caja.jpg 300w, https://stjoannes.com/wp-content/uploads/2020/06/TINTO-MATHA-2019caja-100x100.jpg 100w, https://stjoannes.com/wp-content/uploads/2020/06/TINTO-MATHA-2019caja-150x150.jpg 150w"" sizes=""(max-width: 300px) 100vw, 300px"" /></a></div>	</div>
+</div>
+
+				</div>
+			</div>
+			</div><div class=""et_pb_column et_pb_column_1_2 et_pb_column_2  et_pb_css_mix_blend_mode_passthrough et-last-child"">
+				
+				
+				
+				
+				<div class=""et_pb_module et_pb_wc_title et_pb_wc_title_0 et_pb_bg_layout_light"">
+				
+				
+				
+				
+				
+				
+				<div class=""et_pb_module_inner"">
+					
+		<h1>TINTO MATHA 2019 ECO</h1>
+				</div>
+			</div><div class=""et_pb_module et_pb_wc_price et_pb_wc_price_0"">
+				
+				
+				
+				
+				
+				
+				<div class=""et_pb_module_inner"">
+					<p class=""price""><span class=""woocommerce-Price-amount amount""><bdi>5,04&nbsp;<span class=""woocommerce-Price-currencySymbol"">&euro;</span></bdi></span> <small class=""woocommerce-price-suffix"">Sin Iva</small></p>
+
+				</div>
+			</div><div class=""et_pb_module et_pb_wc_description et_pb_wc_description_0 et_pb_bg_layout_light  et_pb_text_align_left"">
+				
+				
+				
+				
+				
+				
+				<div class=""et_pb_module_inner"">
+					<p>PEDIDO MÍNIMO 1 CAJA<br />
+CADA CAJA CONTIENE<br />
+6 BOTELLAS DE 75cl.</p>
+<p>Precio Caja  72€ (IVA Incluído)</p>
+
+				</div>
+			</div><div class=""et_pb_module et_pb_wc_add_to_cart et_pb_wc_add_to_cart_0 et_pb_fields_label_position_default et_pb_bg_layout_  et_pb_text_align_left"">
+				
+				
+				
+				
+				
+				
+				<div class=""et_pb_module_inner"">
+					<p class=""stock in-stock"">6 disponibles</p>
+
+	
+	<form class=""cart"" action=""https://stjoannes.com/producto/blanco-matha-2021-sant-joannes-eco-copia"" method=""post"" enctype='multipart/form-data'>
+		
+		<div class=""quantity"">
+		<label class=""screen-reader-text"" for=""quantity_66848781b756b"">TINTO MATHA 2019 ECO cantidad</label>
+	<input
+		type=""number""
+				id=""quantity_66848781b756b""
+		class=""input-text qty text""
+		name=""quantity""
+		value=""6""
+		aria-label=""Cantidad de productos""
+		size=""4""
+		min=""6""
+		max=""6""
+					step=""6""
+			placeholder=""""
+			inputmode=""numeric""
+			autocomplete=""off""
+			/>
+	</div>
+
+		<button type=""submit"" name=""add-to-cart"" value=""987459527"" class=""single_add_to_cart_button button alt"">Añadir al carrito</button>
+
+		<meta class=""xt_woofc-product-image"" data-product_image_src=""https://stjoannes.com/wp-content/uploads/2020/06/TINTO-MATHA-2019-600x600.jpg"" data-product_image_width=""600"" data-product_image_height=""600"" />	</form>
+
+	
+
+				</div>
+			</div><div class=""et_pb_module et_pb_wc_meta et_pb_wc_meta_0 et_pb_bg_layout_ et_pb_wc_meta_layout_inline"">
+				
+				
+				
+				
+				
+				
+				<div class=""et_pb_module_inner"">
+					<div class=""product_meta"">
+
+	
+	
+		<span class=""sku_wrapper"">SKU: <span class=""sku"">MATHA-1</span></span>
+
+	
+	<span class=""posted_in"">Categoría: <a href=""https://stjoannes.com/categoria-producto/tintos"" rel=""tag"">Tintos</a></span>
+	<span class=""tagged_as"">Etiquetas: <a href=""https://stjoannes.com/etiqueta-producto/matha"" rel=""tag"">matha</a>, <a href=""https://stjoannes.com/etiqueta-producto/tinto"" rel=""tag"">tinto</a></span>
+	
+</div>
+
+				</div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class=""et_pb_row et_pb_row_2"">
+				<div class=""et_pb_column et_pb_column_4_4 et_pb_column_3  et_pb_css_mix_blend_mode_passthrough et-last-child"">
+				
+				
+				
+				
+				<div class=""et_pb_module et_pb_wc_tabs et_pb_wc_tabs_0 et_pb_tabs "" >
+				
+				
+				
+				
+				<ul class=""et_pb_tabs_controls clearfix"">
+					<li class=""description_tab et_pb_tab_active""><a href=""#tab-description"">Descripción</a></li><li class=""additional_information_tab""><a href=""#tab-additional_information"">Información adicional</a></li><li class=""wcpoa_product_tab_tab""><a href=""#tab-wcpoa_product_tab"">Attachment</a></li>
+				</ul>
+				<div class=""et_pb_all_tabs"">
+					<div class=""et_pb_tab clearfix et_pb_active_content"">
+					<div class=""et_pb_tab_content"">
+						<p><strong>Origen:</strong> La Casa Gran, Sant Joan Samora – DO Penedès</p>
+<p>Clima mediterráneo cálido, suelos arcillo arenosos</p>
+<p><strong>Graduación:</strong> 13% vol.</p>
+<p><strong>Acidez:</strong> 4,7 g/l de ácido tartárico</p>
+<p><strong>Presentación:</strong> 75 cl.</p>
+<p><strong>Tipo de cierre:</strong> corcho</p>
+<p><strong>Tipo de vino:</strong> tinto</p>
+<p><strong>Composición varietal:</strong> Syrah 70% - Cabernet sauvignon 30%</p>
+<p>Viñas de la propiedad ecológicas</p>
+<p><strong>Elaboración:</strong> la uva se vendimia en su punto optimo de maduración. Fermentación en tinas de acero inoxidable con control de temperatura y remontados diarios durante 12 días, tras los cuales se prensa. Se introdujo en barricas usadas durante cuatro meses, durante los cuales se produjo la estabilización espontanea con el frío del invierno,  seguido de una ligera clarificación y filtración suave. Embotellado en junio del 2020.</p>
+<p><strong>Nota de cata:</strong> rojo brillante con matices azulados, intensidad media. Olfativamente aparecen los tostados bien integrados con los recuerdos a frutos rojos frescos. En boca es fino, con una agradable entrada, un paso relativamente ligero y unos taninos frescos y suaves. Los aromas en boca recuerdan al bosque mediterráneo, a tarta de fresa</p>
+<p><strong>Sugerencias de armonización:</strong> pastas, parrilladas de carne y verduras, carnes blancas con salsas cremosas</p>
+<p><strong>Temperatura de Servicio:</strong>  15 - 17ºC</p>
+<p>Vino ecológico certificado por el CCPAE (Consell Català de Producció Agrària Ecològica), que controla el proceso de producción, elaboración, envasado y comercialización</p>
+
+					</div>
+				</div><div class=""et_pb_tab clearfix"">
+					<div class=""et_pb_tab_content"">
+						
+	<h2>Información adicional</h2>
+
+<table class=""woocommerce-product-attributes shop_attributes"">
+			<tr class=""woocommerce-product-attributes-item woocommerce-product-attributes-item--weight"">
+			<th class=""woocommerce-product-attributes-item__label"">Peso</th>
+			<td class=""woocommerce-product-attributes-item__value"">1,1 kg</td>
+		</tr>
+			<tr class=""woocommerce-product-attributes-item woocommerce-product-attributes-item--attribute_pa_lote"">
+			<th class=""woocommerce-product-attributes-item__label"">Lote</th>
+			<td class=""woocommerce-product-attributes-item__value""><p>19012</p>
+</td>
+		</tr>
+	</table>
+
+					</div>
+				</div><div class=""et_pb_tab clearfix"">
+					<div class=""et_pb_tab_content"">
+						<p class=""attachment-restriction-msg""></p>            <style type=""text/css"">
+            #tab-title-wcpoa_product_tab, [id$=""wcpoa_product_tab""], .wcpoa_product_tab_tab {
+                display: none !important;
+            }
+            </style>
+                        <style type=""text/css"" class=""custom_css_call_inline"">
+                        </style>
+            
+					</div>
+				</div>
+				</div>
+			</div><div class=""et_pb_module et_pb_wc_upsells et_pb_wc_upsells_0 et_pb_bg_layout_"">
+				
+				
+				
+				
+				
+				
+				<div class=""et_pb_module_inner"">
+					
+	<section class=""up-sells upsells products"">
+					<h2>También te recomendamos&hellip;</h2>
+		
+		<ul class=""products columns-3"">
+
+			
+				<li class=""product type-product post-987456327 status-publish first outofstock product_cat-blancos product_tag-blanco has-post-thumbnail taxable shipping-taxable purchasable product-type-simple"">
+	<a href=""https://stjoannes.com/producto/sant-joannes"" class=""woocommerce-LoopProduct-link woocommerce-loop-product__link""><span class=""et_shop_image""><img loading=""lazy"" decoding=""async"" width=""600"" height=""600"" src=""https://stjoannes.com/wp-content/uploads/2019/12/SANT-JOANNES-XAREL-LO-2019-600x600.jpg"" class=""attachment-woocommerce_thumbnail size-woocommerce_thumbnail"" alt="""" srcset=""https://stjoannes.com/wp-content/uploads/2019/12/SANT-JOANNES-XAREL-LO-2019-600x600.jpg 600w, https://stjoannes.com/wp-content/uploads/2019/12/SANT-JOANNES-XAREL-LO-2019-480x480.jpg 480w"" sizes=""(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 600px, 100vw"" /><span class=""et_overlay""></span></span><h2 class=""woocommerce-loop-product__title"">BLANCO SANT JOANNES XAREL-LO 2019 ECO</h2>
+	<span class=""price""><span class=""woocommerce-Price-amount amount""><bdi>7,19&nbsp;<span class=""woocommerce-Price-currencySymbol"">&euro;</span></bdi></span> <small class=""woocommerce-price-suffix"">Sin Iva</small></span>
+<a data-quantity=""6"" href=""https://stjoannes.com/producto/sant-joannes"" aria-describedby=""woocommerce_loop_add_to_cart_link_describedby_987456327"" data-quantity=""1"" class=""button product_type_simple"" data-product_id=""987456327"" data-product_sku=""STJOANNESB"" aria-label=""Lee más sobre &ldquo;BLANCO SANT JOANNES XAREL-LO 2019 ECO&rdquo;"" rel=""nofollow"" data-product_image_src=""https://stjoannes.com/wp-content/uploads/2019/12/SANT-JOANNES-XAREL-LO-2019-600x600.jpg"" data-product_image_width=""600"" data-product_image_height=""600"">Leer más</a><span id=""woocommerce_loop_add_to_cart_link_describedby_987456327"" class=""screen-reader-text"">
+	</span>
+</a></li>
+
+			
+		</ul>
+
+	</section>
+
+	
+				</div>
+			</div><div class=""et_pb_module et_pb_wc_related_products et_pb_wc_related_products_0 et_pb_bg_layout_"">
+				
+				
+				
+				
+				
+				
+				<div class=""et_pb_module_inner"">
+					
+	<section class=""related products"">
+
+					<h2>Productos relacionados</h2>
+				
+		<ul class=""products columns-3"">
+
+			
+					<li class=""product type-product post-987459758 status-publish first instock product_cat-blancos product_cat-rosados product_cat-tintos product_tag-blanco product_tag-novedad product_tag-rosado has-post-thumbnail taxable shipping-taxable purchasable product-type-simple"">
+	<a href=""https://stjoannes.com/producto/st-joannes-rose-21"" class=""woocommerce-LoopProduct-link woocommerce-loop-product__link""><span class=""et_shop_image""><img loading=""lazy"" decoding=""async"" width=""600"" height=""600"" src=""https://stjoannes.com/wp-content/uploads/2022/03/St-Joannes-Rose-21-600x600.jpg"" class=""attachment-woocommerce_thumbnail size-woocommerce_thumbnail"" alt="""" srcset=""https://stjoannes.com/wp-content/uploads/2022/03/St-Joannes-Rose-21-600x600.jpg 600w, https://stjoannes.com/wp-content/uploads/2022/03/St-Joannes-Rose-21-480x480.jpg 480w"" sizes=""(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 600px, 100vw"" /><span class=""et_overlay""></span></span><h2 class=""woocommerce-loop-product__title"">ST JOANNES ROSÉ 21</h2>
+	<span class=""price""><span class=""woocommerce-Price-amount amount""><bdi>12,00&nbsp;<span class=""woocommerce-Price-currencySymbol"">&euro;</span></bdi></span> <small class=""woocommerce-price-suffix"">Sin Iva</small></span>
+<a data-quantity=""6"" href=""?add-to-cart=987459758"" aria-describedby=""woocommerce_loop_add_to_cart_link_describedby_987459758"" data-quantity=""1"" class=""button product_type_simple add_to_cart_button ajax_add_to_cart"" data-product_id=""987459758"" data-product_sku=""STJOANNESR21"" aria-label=""Añadir al carrito: &ldquo;ST JOANNES ROSÉ 21&rdquo;"" rel=""nofollow"" data-product_image_src=""https://stjoannes.com/wp-content/uploads/2022/03/St-Joannes-Rose-21-600x600.jpg"" data-product_image_width=""600"" data-product_image_height=""600"">Añadir al carrito</a><span id=""woocommerce_loop_add_to_cart_link_describedby_987459758"" class=""screen-reader-text"">
+	</span>
+</a></li>
+
+			
+					<li class=""product type-product post-987531799 status-publish outofstock product_cat-blancos product_tag-blanco product_tag-matha product_tag-novedad has-post-thumbnail taxable shipping-taxable purchasable product-type-simple"">
+	<a href=""https://stjoannes.com/producto/blanco-matha-2022"" class=""woocommerce-LoopProduct-link woocommerce-loop-product__link""><span class=""et_shop_image""><img loading=""lazy"" decoding=""async"" width=""600"" height=""600"" src=""https://stjoannes.com/wp-content/uploads/2023/03/BLANCO-MATHA-2022-600x600.jpg"" class=""attachment-woocommerce_thumbnail size-woocommerce_thumbnail"" alt="""" srcset=""https://stjoannes.com/wp-content/uploads/2023/03/BLANCO-MATHA-2022-600x600.jpg 600w, https://stjoannes.com/wp-content/uploads/2023/03/BLANCO-MATHA-2022-480x480.jpg 480w"" sizes=""(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 600px, 100vw"" /><span class=""et_overlay""></span></span><h2 class=""woocommerce-loop-product__title"">BLANCO MATHA 2022 SANT JOANNES ECO</h2>
+	<span class=""price""><span class=""woocommerce-Price-amount amount""><bdi>15,00&nbsp;<span class=""woocommerce-Price-currencySymbol"">&euro;</span></bdi></span> <small class=""woocommerce-price-suffix"">Sin Iva</small></span>
+<a data-quantity=""6"" href=""https://stjoannes.com/producto/blanco-matha-2022"" aria-describedby=""woocommerce_loop_add_to_cart_link_describedby_987531799"" data-quantity=""1"" class=""button product_type_simple"" data-product_id=""987531799"" data-product_sku=""STJOANNESB22"" aria-label=""Lee más sobre &ldquo;BLANCO MATHA 2022 SANT JOANNES ECO&rdquo;"" rel=""nofollow"" data-product_image_src=""https://stjoannes.com/wp-content/uploads/2023/03/BLANCO-MATHA-2022-600x600.jpg"" data-product_image_width=""600"" data-product_image_height=""600"">Leer más</a><span id=""woocommerce_loop_add_to_cart_link_describedby_987531799"" class=""screen-reader-text"">
+	</span>
+</a></li>
+
+			
+					<li class=""product type-product post-987531830 status-publish last outofstock product_cat-blancos product_tag-blanco product_tag-matha product_tag-novedad has-post-thumbnail taxable shipping-taxable purchasable product-type-simple"">
+	<a href=""https://stjoannes.com/producto/blanco-matha-2021-sant-joannes-eco-copia"" class=""woocommerce-LoopProduct-link woocommerce-loop-product__link""><span class=""et_shop_image""><img loading=""lazy"" decoding=""async"" width=""600"" height=""600"" src=""https://stjoannes.com/wp-content/uploads/2023/03/BLANCO-MATHA-2021-600x600.jpg"" class=""attachment-woocommerce_thumbnail size-woocommerce_thumbnail"" alt="""" srcset=""https://stjoannes.com/wp-content/uploads/2023/03/BLANCO-MATHA-2021-600x600.jpg 600w, https://stjoannes.com/wp-content/uploads/2023/03/BLANCO-MATHA-2021-480x480.jpg 480w"" sizes=""(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 600px, 100vw"" /><span class=""et_overlay""></span></span><h2 class=""woocommerce-loop-product__title"">BLANCO MATHA 2021 SANT JOANNES ECO</h2>
+	<span class=""price""><span class=""woocommerce-Price-amount amount""><bdi>13,00&nbsp;<span class=""woocommerce-Price-currencySymbol"">&euro;</span></bdi></span> <small class=""woocommerce-price-suffix"">Sin Iva</small></span>
+<a data-quantity=""6"" href=""https://stjoannes.com/producto/blanco-matha-2021-sant-joannes-eco-copia"" aria-describedby=""woocommerce_loop_add_to_cart_link_describedby_987531830"" data-quantity=""1"" class=""button product_type_simple"" data-product_id=""987531830"" data-product_sku=""STJOANNESB21"" aria-label=""Lee más sobre &ldquo;BLANCO MATHA 2021 SANT JOANNES ECO&rdquo;"" rel=""nofollow"" data-product_image_src=""https://stjoannes.com/wp-content/uploads/2023/03/BLANCO-MATHA-2021-600x600.jpg"" data-product_image_width=""600"" data-product_image_height=""600"">Leer más</a><span id=""woocommerce_loop_add_to_cart_link_describedby_987531830"" class=""screen-reader-text"">
+	</span>
+</a></li>
+
+			
+		</ul>
+
+	</section>
+	
+				</div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div>
+				
+				
+			</div>
+",0,1,"2024-07-02 23:04:34",,6,,6,no,no,no,0,90,2,,dont-sync-and-show,deleted,2020-06-24,off,page,,"[et_pb_split_track id=""987459527"" /]",3,et_build_from_scratch,modified,{},,,,,,,,,,
+987459676,simple,STJOANNESB20,,"BLANCO MATHA 2020 SANT JOANNES ECO",1,0,visible,"PEDIDO MÍNIMO 1 CAJA\nCADA CAJA CONTIENE\n6 BOTELLAS DE 75cl.\n\nPrecio Caja  54€ (IVA Incluído)","<b>Origen:</b> La Casa Gran, Sant Joan Samora – DO Penedès\n\n<a href=""https://awards.decanter.com/DWWA/2022/wines/713288""><img class=""aligncenter wp-image-987459813 size-full"" src=""https://stjoannes.com/wp-content/uploads/2021/03/DECANTER-PREMIO.png"" alt="""" width=""301"" height=""300"" /></a><img class=""aligncenter size-medium wp-image-987459777"" src=""https://stjoannes.com/wp-content/uploads/2020/06/Concurso-Vinos-Real-Casino-Madrid-2022-Medalla-Plata-600x600_p-300x300.png"" alt="""" width=""300"" height=""300"" />\n\n<strong>Premio:  </strong>Plata 2022 - concurso del Casino de Madrid\n\nClima mediterráneo cálido, suelo argilloso- arenosos\n\n<b>Graduación:</b> 13,5% vol.\n\n<b>Acidez:</b> 5,5 g/l en ácido tartárico\n\n<b>Presentación:</b> 75 cl.\n\n<b>Cierre: </b>tapón de corcho\n\n<b>Composición varietal:</b> Viognier 100% procedente de las viñas de la propiedad\n\n<b>Elaboración:</b> a pesar de la elevada incidencia de míldiu durante la añada 2020, se pudo vendimiar la Viognier en perfecto estado, de forma manual. La uva se despalilla y se conduce a la prensa, donde es prensada, manteniendo el mosto a bajas temperaturas para una decantación natural. La fermentación se realizó en depósitos inox a temperatura controlada, y una vez el vino no presenta residuos de azúcares, se mantiene con sus lías finas para obtener más cuerpo y estructura. Se embotelló el 11 de enero del 2021, en plena luna descendente y día fruta\n\n<b>Nota de cata:</b> vino blanco, intenso, con tonalidades áureas y reflejos verdosos. Aromas florales con toques cítricos, toques de melocotón. Gustativamente es fresco y equilibrado, con un paso largo y untuoso a la vez que presenta un ligero toque salino que resulta equilibrante\n\n<b>Armonización:</b> carnes blancas, pescados ligeros e incluso a copas <b>Temperatura de Servicio:</b>  7 – 10ºC\n\nVi ecológico certificado por CCPAE (Consell Català de Producció Agrària Ecològica), que controla el proceso de producción, elaboración, envasado y comercialización.",,"2021-05-15 0:00:00",taxable,,1,,,0,0,1.1,,,,0,,8,"9,00",Blancos,"Blanco, matha, novedad",,"https://stjoannes.com/wp-content/uploads/2021/03/BLANCO-MATHA-2020PREMIO.jpg, https://stjoannes.com/wp-content/uploads/2021/03/DECANTER-PREMIO.png, https://stjoannes.com/wp-content/uploads/2021/03/BLANCO-MATHA-2020CAJA.jpg, https://stjoannes.com/wp-content/uploads/2021/03/BLANCO-MATHA-2020PREMIO.jpg, https://stjoannes.com/wp-content/uploads/2021/03/BLANCO-MATHA-2020.jpg",,,,,MATHA,STJOANNESB,,,0,,Lote,20111,1,1,1,1,1578423269,no,et_no_sidebar,off,,BB|Divi|3.12.1,hourly,,,,wc-all,,1,,,0,1,,,6,,6,no,no,no,0,90,2,,dont-sync-and-show,deleted,2021-03-11,,,,,,,,,,,,,,,,,,
+987459754,simple,STJOANNESB21-1,,"ST JOANNES BLANCO 21",1,0,visible,"PEDIDO MÍNIMO 1 CAJA\nCADA CAJA CONTIENE\n6 BOTELLAS DE 75cl.\n\nPrecio Caja  90€ (+ IVA ","<strong>Origen: La Casa Gran, Sant Joan Samora – DO Penedès</strong>\n\nClima mediterráneo cálido, suelos arcillo arenosos\n\n<strong>Graduación: 13,4% vol.</strong>\n\n<strong>Acidez: 5,5 g/l en àcid tartàric</strong>\n\n<strong>Presentación: 75 cl.</strong>\n\n<strong>Cierre: corcho natural</strong>\n\n<strong>Composición varietal: Xarel·lo</strong>\n\n<strong>Elaboración: vendimia manual seleccionada, despalillado y prensado a baja presión. Desfangado estático y fermentación a temperatura controlada. Reposó sobre sus lías hasta la clarificación y filtración, se embotelló en diciembre del 2021</strong>\n\n<strong>Nota de cata: Color amarillo pálido y brillante, muestra una elevada intensidad aromática que combina recuerdos de fruta fresca con notas cítricas y un fondo anisado. Entrada fresca, elegante acidez, con un final persistente, untuoso debido a su reposo sobre lías</strong>\n\n<strong>Sugerencias de harmonización: verduras asadas, arroces, carnes blancas, ensaladas</strong>\n\n<strong>Temperatura de Servicio:  7 – 10ºC</strong>\n\nVino ecológico certificado por el CCPAE (Consell Català de Producció Agrària Ecològica), que controla el proceso de producción, elaboración, envasado y comercialización",,,taxable,,1,,,0,0,1.1,,,,0,,,15,Blancos,"Blanco, novedad",,"https://stjoannes.com/wp-content/uploads/2022/03/ST-JOANNES-BLANCO-21.jpg, https://stjoannes.com/wp-content/uploads/2022/03/ST-JOANNES-BLANCO-21.jpg, https://stjoannes.com/wp-content/uploads/2022/03/ST-JOANNES-BLANCO-21CAJA.jpg",,,,,MATHA,"STJOANNESB20, STJOANNESB",,,0,,Lote,21001,1,1,1,1,1578423269,no,et_no_sidebar,off,,BB|Divi|3.12.1,hourly,,,,wc-all,,1,,,0,1,,,6,,6,no,no,no,0,90,1,,dont-sync-and-show,deleted,2022-03-01,,,,,,,,,,,,,,,,,,
+987459758,simple,STJOANNESR21,,"ST JOANNES ROSÉ 21",1,0,visible,"PEDIDO MÍNIMO 1 CAJA\nCADA CAJA CONTIENE\n6 BOTELLAS DE 75cl.\n\nPrecio Caja  72€ (+ IVA )","<strong>Origen: La Casa Gran, Sant Joan Samora – DO Penedès</strong>\n\nClima mediterráneo cálido, suelos arcillo arenosos\n\n<strong>Graduación: 12,6% vol.</strong>\n\n<strong>Acidez: 5,4 g/l en àcid tartàric</strong>\n\n<strong>Presentación: 75 cl.</strong>\n\n<strong>Cierre: corcho natural</strong>\n\n<strong>Composición varietal: Syrah</strong>\n\n<strong>Elaboración: vendimia manual seleccionada, despalillado y maceración en depósito durante 4 horas. Desfangado estático y fermentación a temperatura controlada. Clarificación y filtración ligeras, se embotelló en diciembre del 2021</strong>\n\n<strong>Nota de cata: vino rosado de color rosa fresa, con intensos aromas afrutados y lácteos, notas de hierba fresca y eucalipto. En boca es fresco, dejando un final agradable que recuerda a los frutos rojos frescos (frambuesa), amable y goloso</strong>\n\n<strong>Sugerencias de harmonización: embutidos, mariscos, pescado blanco, pasta, quesos , cremosos, etc.</strong>\n\n<strong>Temperatura de Servicio:  7 – 10ºC</strong>\n\nVino ecológico certificado por el CCPAE (Consell Català de Producció Agrària Ecològica), que controla el proceso de producción, elaboración, envasado y comercialización","2024-06-12 0:00:00","2024-06-13 0:00:00",taxable,,0,,,0,0,1.1,,,,0,,,12,Rosados,"novedad, rosado",,"https://stjoannes.com/wp-content/uploads/2022/03/St-Joannes-Rose-21.jpg, https://stjoannes.com/wp-content/uploads/2022/03/St-Joannes-Rose-21-CAJA.jpg, https://stjoannes.com/wp-content/uploads/2022/03/St-Joannes-Rose-21.jpg",,,,,STJOANNESR23,"STJOANNESB20, STJOANNESB",,,0,,Lote,21031,1,1,1,1,1578423269,no,et_no_sidebar,off,,BB|Divi|3.12.1,hourly,,,,wc-all,,1,,,0,1,,,6,,6,no,no,no,0,90,1,,dont-sync-and-show,deleted,2022-03-01,,,,,,,,,label,,red,none,#D9534F,#fff,,no,66,"%%title%% %%page%% %%sep%% %%sitename%% %"
+987531795,simple,STJOANNESR22,,"ST JOANNES BLANCO  22",1,0,visible,"PEDIDO MÍNIMO 1 CAJA\nCADA CAJA CONTIENE\n6 BOTELLAS DE 75cl.\n\nPrecio Caja  96€ (+ IVA ","<strong>Origen:</strong> La Casa Gran, Sant Joan Samora – DO Penedès Clima mediterráneo càlids, sòls argilo arenosos\n\n<strong>Graduación:</strong> 13,05% vol.\n\n<strong>Acidez:</strong> 5,5 g/l en ácido tartárico\n\n<strong>Sulfitos</strong> <strong>totales</strong>: 52 ppm <strong>Acidez</strong> <strong>volátil:</strong> 0,28 g/l <strong>Azúcar</strong> <strong>residual:</strong> 3,7 g/l <strong>Presentació:</strong> 75 cl.\n\n<strong>Composició</strong> <strong>varietal:</strong> 100% Xarel·lo\n\n<strong>Elaboración:</strong> vendimia manual seleccionada, despalillado y prensado a bajo rendimiento. El desfangado es estático durante 24 horas, al cabo de las cuales se trasiega e inicia la fermentación mediante inoculación de levaduras. La duración de la fermentación es de 21 días hasta que se para de forma espontánea. Se estabiliza de forma suave mediante frío y una ligera dosis de clarificador, tras los cuales se filtra y reposa hasta el embotellado, durante diciembre del año 2022\n\n<em>Debido</em> <em>a que las intervenciones sobre el vino han consistido en las mínimas para</em> <em>salvaguardar</em> <em>sus</em> <em>cualidades,</em> <em>puede</em> <em>presentar</em> <em>precipitados</em> <em>en el fondo de la botella</em>\n\n<em> </em><strong>Nota</strong> <strong>de cata: </strong>amarillo medio con tonalidades pajizas. En nariz muestra la tipicidad del Xarel·lo, con un fondo de hinojo muy marcado, pera y almendra amarga. En boca es untuoso, con una entrada potente y cálida, paso de boca equilibrado y final muy agradable, largo.\n\n<strong>Sugerencias</strong> <strong>de armonización: </strong>arroces, pasta, quesos cremosos ligeros, carnes blancas\n\n<strong>Tem</strong><strong>p</strong><strong>er</strong><strong>atu</strong><strong>r</strong><strong>a </strong><strong>de Servicio: </strong>8 – 10ºC\n\n<em>Vi ecològic certificat pel CCPAE (Consell Català de Producció Agrària Ecològica), que</em> <em>controla</em> <em>el procès de producción, elaboració, envasat i comercialització</em>",,,taxable,,1,,,0,0,1.1,,,,0,,,16,Blancos,"Blanco, novedad, Xarel·lo",,"https://stjoannes.com/wp-content/uploads/2023/03/StJoannesblanco22_900.jpg, https://stjoannes.com/wp-content/uploads/2023/03/StJoannesblanco22-1.jpg, https://stjoannes.com/wp-content/uploads/2023/03/StJoannesblanco22_1.jpg",,,,,MATHA,"STJOANNESB20, STJOANNESB, STJOANNESB21-1",,,0,,Lote,22001,1,1,1,1,1578423269,no,et_no_sidebar,off,,BB|Divi|3.12.1,hourly,,,,wc-all,,1,,,0,1,,,6,,6,no,no,no,0,90,2,,dont-sync-and-show,deleted,2023-03-08,,,,,,,,,,,,,,,,,21,
+987531799,simple,STJOANNESB22,,"BLANCO MATHA 2022 SANT JOANNES ECO",1,0,visible,"PEDIDO MÍNIMO 1 CAJA\nCADA CAJA CONTIENE\n6 BOTELLAS DE 75cl.\n\nPrecio Caja  90€ (+ IVA)","<strong>Origen:</strong> La Casa Gran, Sant Joan Samora – DO Penedès Clima mediterráneo càlids, sòls argilo arenosos\n\n<strong>Graduación:</strong> 10,7% vol.\n\n<strong>Acidez:</strong> 5,6 g/l en ácido tartárico\n\n<strong>Sulfitos</strong> <strong>totales</strong>: 49 ppm <strong>Acidez</strong> <strong>volátil:</strong> 0,15 g/l <strong>Azúcar</strong> <strong>residual:</strong> &lt; 0,5 g/l <strong>Presentación:</strong> 75 cl.\n\n<strong>Composició</strong> <strong>varietal:</strong> 100% Viognier\n\n<strong>Elaboración:</strong> vendimia manual seleccionada, despalillado y prensado a bajo rendimiento. El desfangado es estático durante 24 horas, al cabo de las cuales se trasiega e inicia la fermentación mediante inoculación de levaduras. La duración de la fermentación es de 15 días hasta que se para de forma espontánea. Se estabiliza de forma suave mediante frío y una ligera dosis de clarificador, tras los cuales se filtra y reposa hasta el embotellado, durante diciembre del año 2022\n\n<em>Debido</em> <em>a que las intervenciones sobre el vino han consistido en las mínimas para</em> <em>salvaguardar</em> <em>sus</em> <em>cualidades,</em> <em>puede</em> <em>presentar</em> <em>precipitados</em> <em>en el fondo de la botella</em>\n\n<em> </em><strong>Nota</strong> <strong>de cata: </strong>amarillo muy pálido, casi transparente, con reflejos irisados. En nariz resulta fresco, floral y ligeramente herbáceo, con intensidad media – elevada.\n\nGustativamente es ligero, franco y fácil de beber, con una acidez marcada que refresca y nos traslada a los aromas de bosque mediterráneo\n\n<strong>Sugerencias</strong> <strong>de armonización: </strong>marisco, ostras, platos de mar, cocteleo, a copas\n\n<strong>Tem</strong><strong>p</strong><strong>er</strong><strong>atu</strong><strong>r</strong><strong>a </strong><strong>de Servei: </strong>6 – 8ºC\n\n<em>Vi ecològic certificat pel CCPAE (Consell Català de Producció Agrària Ecològica), que</em> <em>controla</em> <em>el procès de producción, elaboració, envasat i comercialització</em>",,,taxable,,1,,,0,0,1.1,,,,0,,,15,Blancos,"Blanco, matha, novedad",,"https://stjoannes.com/wp-content/uploads/2023/03/BLANCO-MATHA-2022.jpg, https://stjoannes.com/wp-content/uploads/2023/03/BLANCO-MATHA-2022.jpg, https://stjoannes.com/wp-content/uploads/2023/03/BLANCO-MATHA-2022-CAJA.jpg",,,,,MATHA,"STJOANNESB20, STJOANNESB21-1, STJOANNESR22",,,0,,Lote,220111,1,1,1,1,1578423269,no,et_no_sidebar,off,,BB|Divi|3.12.1,hourly,,,,wc-all,,1,,,0,1,,,6,,6,no,no,no,0,90,2,,dont-sync-and-show,deleted,2023-03-08,,,,,,,,,,,,,,,,,21,
+987531800,simple,MATHATINTO21,,"TINTO MATHA 2021 ECO",1,0,visible,"PEDIDO MÍNIMO 1 CAJA\nCADA CAJA CONTIENE\n6 BOTELLAS DE 75cl.\n\nPrecio Caja  72€ (+ IVA )","[et_pb_section fb_built=""1"" _builder_version=""4.16"" custom_padding=""0px||||false|false"" global_colors_info=""{}""][et_pb_row _builder_version=""4.16"" background_size=""initial"" background_position=""top_left"" background_repeat=""repeat"" width=""100%"" custom_padding=""0px||0px||false|false"" global_colors_info=""{}""][et_pb_column type=""4_4"" _builder_version=""4.16"" custom_padding=""|||"" global_colors_info=""{}"" custom_padding__hover=""|||""][et_pb_wc_breadcrumb _builder_version=""4.16"" global_colors_info=""{}""][/et_pb_wc_breadcrumb][et_pb_wc_cart_notice _builder_version=""4.16"" global_colors_info=""{}""][/et_pb_wc_cart_notice][/et_pb_column][/et_pb_row][et_pb_row column_structure=""1_2,1_2"" _builder_version=""4.16"" background_size=""initial"" background_position=""top_left"" background_repeat=""repeat"" width=""100%"" custom_padding=""0px||||false|false"" global_colors_info=""{}""][et_pb_column type=""1_2"" _builder_version=""4.16"" custom_padding=""|||"" global_colors_info=""{}"" custom_padding__hover=""|||""][et_pb_wc_images _builder_version=""4.16"" global_colors_info=""{}""][/et_pb_wc_images][/et_pb_column][et_pb_column type=""1_2"" _builder_version=""4.16"" custom_padding=""|||"" global_colors_info=""{}"" custom_padding__hover=""|||""][et_pb_wc_title _builder_version=""4.16"" global_colors_info=""{}""][/et_pb_wc_title][et_pb_wc_rating _builder_version=""4.16"" global_colors_info=""{}""][/et_pb_wc_rating][et_pb_wc_price _builder_version=""4.16"" global_colors_info=""{}""][/et_pb_wc_price][et_pb_wc_description _builder_version=""4.16"" global_colors_info=""{}""][/et_pb_wc_description][et_pb_wc_add_to_cart _builder_version=""4.16"" global_colors_info=""{}""][/et_pb_wc_add_to_cart][et_pb_wc_meta _builder_version=""4.16"" global_colors_info=""{}""][/et_pb_wc_meta][/et_pb_column][/et_pb_row][et_pb_row _builder_version=""4.16"" background_size=""initial"" background_position=""top_left"" background_repeat=""repeat"" width=""100%"" global_colors_info=""{}""][et_pb_column type=""4_4"" _builder_version=""4.16"" custom_padding=""|||"" global_colors_info=""{}"" custom_padding__hover=""|||""][et_pb_wc_tabs _builder_version=""4.16"" global_colors_info=""{}""]					[/et_pb_wc_tabs][et_pb_wc_upsells _builder_version=""4.16"" global_colors_info=""{}""][/et_pb_wc_upsells][et_pb_wc_related_products _builder_version=""4.16"" global_colors_info=""{}""][/et_pb_wc_related_products][/et_pb_column][/et_pb_row][/et_pb_section]",,,taxable,,1,,,0,0,1.1,,,,0,,,12,Tintos,"matha, novedad, tinto",,"https://stjoannes.com/wp-content/uploads/2023/03/TINTO-MATHA-2021.jpg, https://stjoannes.com/wp-content/uploads/2021/04/premio-gilbert-matha-blanco.png, https://stjoannes.com/wp-content/uploads/2023/03/TINTO-MATHA-2021.jpg, https://stjoannes.com/wp-content/uploads/2023/03/TINTO-MATHA-2021_CAJA.jpg",,,,,STJOANNESB,"STJOANNESB, T2009-1-1, MATHA-1",,,0,,Lote,21012,1,1,1,1,1578423237,no,et_no_sidebar,off,on,VB|Divi|4.7.5,,"<strong>Origen:</strong> La Casa Gran, Sant Joan Samora – DO Penedès Clima mediterráneo càlids, sòls argilo arenosos
+
+<strong>Graduación:</strong> 12,70 % vol.
+
+<strong>Acidez:</strong> 4,6 g/l en ácido tartárico
+
+<strong>Sulfitos</strong> <strong>totales</strong>: 32 ppm
+
+<strong>Acidez</strong> <strong>volátil:</strong> 0,70 g/l
+
+<strong>Azúcar</strong> <strong>residual:</strong> 0,8 g/l
+
+<strong>Presentación:</strong> 75 cl.
+
+<strong>Composició</strong> <strong>varietal:</strong> 100% Syrah
+
+<strong>Elaboración:</strong> La maduración del año 2021 no fue plena, aunque se seleccionaron los racimos más expuestos y sanos para obtener un producto de primera calidad.
+
+Vendimia manual seleccionada y despalillado. Una parte del mosto se utilizó para la elaboración de vino rosado, por lo que el resto se ha macerado con la totalidad de las pieles, obteniendo una proporción mayor de hollejos que de mosto.
+
+La maceración duró 7 días con remontados diarios mañana y tarde, hasta que se consideró separar las partes sólidas de las líquidas por decantación, añadiendo una pequeña parte del vino prensado, evitando la presencia de taninos agresivos y verdes El vino final se introdujo en barricas, permaneciendo durante 12 meses, durante los cuales se controlaron sus características analíticas y organolépticas.
+
+Previamente a su embotellado se filtró para evitar la presencia de precipitados sólidos, aunque la filtración ha sido respetuosa y ligera
+
+<em>Debido</em> <em>a que las intervenciones sobre el vino han consistido en las mínimas para</em> <em>salvaguardar</em> <em>sus</em> <em>cualidades,</em> <em>puede</em> <em>presentar</em> <em>precipitados</em> <em>en el fondo de la botella</em>
+
+<strong>Nota</strong> <strong>de cata: </strong>rojo subido, con matiz rubí y menisco violáceo. En nariz se encuentran fácilmente las notas florales y de frutas negras correspondientes a una óptima maduración, además de recuerdos de madera, tostados y cuero. En boca es contundente, con un cuerpo amplio y unos taninos marcados que todavía han de evolucionar, mostrando un carácter mediterráneo típico
+
+<strong>Sugerencias</strong> <strong>de armonización: </strong>embutidos, quesos, carnes rojas, guisos.
+
+<em>Este</em> <em>vino</em> <em>ha</em> <em>permanecido</em> <em>en crianza en barrica durante 12 meses, por lo que se</em> <em>considera</em> <em>que</em> <em>sus</em> <em>características</em> <em>sensoriales</em> <em>pueden</em> <em>mejorar</em><em> durante</em> <em>al</em> <em>menos</em> <em>48</em> <em>meses más en botella, según sean sus condiciones de conservación</em>
+
+<strong>Tem</strong><strong>p</strong><strong>er</strong><strong>atu</strong><strong>r</strong><strong>a </strong><strong>de Servicio: </strong>12 – 16ºC",,,wc-all,,1,,"<div class=""et_pb_section et_pb_section_0 et_section_regular"" >
+				
+				
+				
+				
+				
+				
+				<div class=""et_pb_row et_pb_row_0"">
+				<div class=""et_pb_column et_pb_column_4_4 et_pb_column_0  et_pb_css_mix_blend_mode_passthrough et-last-child"">
+				
+				
+				
+				
+				<div class=""et_pb_module et_pb_wc_breadcrumb et_pb_wc_breadcrumb_0 et_pb_bg_layout_  et_pb_text_align_left"">
+				
+				
+				
+				
+				
+				
+				<div class=""et_pb_module_inner"">
+					<nav class=""woocommerce-breadcrumb"" aria-label=""Breadcrumb""><a href=""https://stjoannes.com"">Inicio</a>  /  <a href=""https://stjoannes.com/categoria-producto/tintos"">Tintos</a>  /  MATHA TINTO 21 CRIANZA ECO</nav>
+				</div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class=""et_pb_row et_pb_row_1"">
+				<div class=""et_pb_column et_pb_column_1_2 et_pb_column_1  et_pb_css_mix_blend_mode_passthrough"">
+				
+				
+				
+				
+				<div class=""et_pb_module et_pb_wc_images et_pb_wc_images_0 et_pb_bg_layout_"">
+				
+				
+				
+				
+				
+				
+				<div class=""et_pb_module_inner"">
+					<div class=""woocommerce-product-gallery woocommerce-product-gallery--with-images woocommerce-product-gallery--columns-4 images"" data-columns=""4"" style=""opacity: 0; transition: opacity .25s ease-in-out;"">
+	<div class=""woocommerce-product-gallery__wrapper"">
+		<div data-thumb=""https://stjoannes.com/wp-content/uploads/2024/10/MathaTinto21_tienda-100x100.png"" data-thumb-alt="""" data-thumb-srcset="""" class=""woocommerce-product-gallery__image""><a href=""https://stjoannes.com/wp-content/uploads/2024/10/MathaTinto21_tienda.png""><img loading=""lazy"" decoding=""async"" width=""900"" height=""900"" src=""https://stjoannes.com/wp-content/uploads/2024/10/MathaTinto21_tienda.png"" class=""wp-post-image"" alt="""" title=""MathaTinto21_tienda"" data-caption="""" data-src=""https://stjoannes.com/wp-content/uploads/2024/10/MathaTinto21_tienda.png"" data-large_image=""https://stjoannes.com/wp-content/uploads/2024/10/MathaTinto21_tienda.png"" data-large_image_width=""900"" data-large_image_height=""900"" srcset=""https://stjoannes.com/wp-content/uploads/2024/10/MathaTinto21_tienda.png 900w, https://stjoannes.com/wp-content/uploads/2024/10/MathaTinto21_tienda-480x480.png 480w"" sizes=""(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 900px, 100vw"" /></a></div><style class=""wapl-custom-css""></style><div class=""wapl-label-id-987537139 label-wrap wapl-ribbon label-red wapl-alignnone"">
+			<span class=""woocommerce-advanced-product-label product-label label-red"" >
+				<span class=""wapl-label-text"">Novedad</span>
+			</span>
+		</div><div data-thumb=""https://stjoannes.com/wp-content/uploads/2024/10/QR-definitivo-Matha-tinto-crianza-100x100.jpeg"" data-thumb-alt="""" data-thumb-srcset="""" class=""woocommerce-product-gallery__image""><a href=""https://stjoannes.com/wp-content/uploads/2024/10/QR-definitivo-Matha-tinto-crianza.jpeg""><img loading=""lazy"" decoding=""async"" width=""630"" height=""625"" src=""https://stjoannes.com/wp-content/uploads/2024/10/QR-definitivo-Matha-tinto-crianza.jpeg"" class="""" alt="""" title=""QR definitivo Matha tinto crianza"" data-caption="""" data-src=""https://stjoannes.com/wp-content/uploads/2024/10/QR-definitivo-Matha-tinto-crianza.jpeg"" data-large_image=""https://stjoannes.com/wp-content/uploads/2024/10/QR-definitivo-Matha-tinto-crianza.jpeg"" data-large_image_width=""630"" data-large_image_height=""625"" srcset=""https://stjoannes.com/wp-content/uploads/2024/10/QR-definitivo-Matha-tinto-crianza.jpeg 630w, https://stjoannes.com/wp-content/uploads/2024/10/QR-definitivo-Matha-tinto-crianza-480x476.jpeg 480w"" sizes=""(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 630px, 100vw"" /></a></div><div data-thumb=""https://stjoannes.com/wp-content/uploads/2024/10/MathaTinto21_tiendaBolsa-100x100.png"" data-thumb-alt="""" data-thumb-srcset=""https://stjoannes.com/wp-content/uploads/2024/10/MathaTinto21_tiendaBolsa-100x100.png 100w, https://stjoannes.com/wp-content/uploads/2024/10/MathaTinto21_tiendaBolsa-150x150.png 150w"" class=""woocommerce-product-gallery__image""><a href=""https://stjoannes.com/wp-content/uploads/2024/10/MathaTinto21_tiendaBolsa.png""><img loading=""lazy"" decoding=""async"" width=""180"" height=""169"" src=""https://stjoannes.com/wp-content/uploads/2024/10/MathaTinto21_tiendaBolsa.png"" class="""" alt="""" title=""MathaTinto21_tiendaBolsa"" data-caption="""" data-src=""https://stjoannes.com/wp-content/uploads/2024/10/MathaTinto21_tiendaBolsa.png"" data-large_image=""https://stjoannes.com/wp-content/uploads/2024/10/MathaTinto21_tiendaBolsa.png"" data-large_image_width=""180"" data-large_image_height=""169"" /></a></div>	</div>
+</div>
+
+				</div>
+			</div>
+			</div><div class=""et_pb_column et_pb_column_1_2 et_pb_column_2  et_pb_css_mix_blend_mode_passthrough et-last-child"">
+				
+				
+				
+				
+				<div class=""et_pb_module et_pb_wc_title et_pb_wc_title_0 et_pb_bg_layout_light"">
+				
+				
+				
+				
+				
+				
+				<div class=""et_pb_module_inner"">
+					
+		<h1>MATHA TINTO 21 CRIANZA ECO</h1>
+				</div>
+			</div><div class=""et_pb_module et_pb_wc_price et_pb_wc_price_0"">
+				
+				
+				
+				
+				
+				
+				<div class=""et_pb_module_inner"">
+					<p class=""price""><span class=""woocommerce-Price-amount amount""><bdi>13,00&nbsp;<span class=""woocommerce-Price-currencySymbol"">&euro;</span></bdi></span> <small class=""woocommerce-price-suffix"">Sin Iva</small></p>
+
+				</div>
+			</div><div class=""et_pb_module et_pb_wc_description et_pb_wc_description_0 et_pb_bg_layout_light  et_pb_text_align_left"">
+				
+				
+				
+				
+				
+				
+				<div class=""et_pb_module_inner"">
+					<p>PEDIDO MÍNIMO 1 CAJA<br />
+CADA CAJA CONTIENE<br />
+6 BOTELLAS DE 75cl.</p>
+<p>Precio Caja  78€ (IVA Incluído)</p>
+
+				</div>
+			</div><div class=""et_pb_module et_pb_wc_add_to_cart et_pb_wc_add_to_cart_0 et_pb_fields_label_position_default et_pb_bg_layout_  et_pb_text_align_left"">
+				
+				
+				
+				
+				
+				
+				<div class=""et_pb_module_inner"">
+					<p class=""stock in-stock"">6 disponibles</p>
+
+	
+	<form class=""cart"" action=""https://stjoannes.com/15-easy-approaches-to-discover-portland-hookups-satisfy-women-in-2023"" method=""post"" enctype='multipart/form-data'>
+		
+		<div class=""quantity"">
+		<label class=""screen-reader-text"" for=""quantity_672aabcea1c8a"">MATHA TINTO 21 CRIANZA ECO cantidad</label>
+	<input
+		type=""hidden""
+				id=""quantity_672aabcea1c8a""
+		class=""input-text qty text""
+		name=""quantity""
+		value=""6""
+		aria-label=""Cantidad de productos""
+		size=""4""
+		min=""6""
+		max=""6""
+					step=""6""
+			placeholder=""""
+			inputmode=""numeric""
+			autocomplete=""off""
+			/>
+	</div>
+
+		<button type=""submit"" name=""add-to-cart"" value=""987537139"" class=""single_add_to_cart_button button alt"">Añadir al carrito</button>
+
+		<meta class=""xt_woofc-product-image"" data-product_image_src=""https://stjoannes.com/wp-content/uploads/2024/10/MathaTinto21_tienda-600x600.png"" data-product_image_width=""600"" data-product_image_height=""600"" />	</form>
+
+	
+
+				</div>
+			</div><div class=""et_pb_module et_pb_wc_meta et_pb_wc_meta_0 et_pb_bg_layout_ et_pb_wc_meta_layout_inline"">
+				
+				
+				
+				
+				
+				
+				<div class=""et_pb_module_inner"">
+					<div class=""product_meta"">
+
+	
+	
+		<span class=""sku_wrapper"">SKU: <span class=""sku"">MATHAT21ECO</span></span>
+
+	
+	<span class=""posted_in"">Categoría: <a href=""https://stjoannes.com/categoria-producto/tintos"" rel=""tag"">Tintos</a></span>
+	<span class=""tagged_as"">Etiqueta: <a href=""https://stjoannes.com/etiqueta-producto/tinto"" rel=""tag"">tinto</a></span>
+	
+</div>
+
+				</div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class=""et_pb_row et_pb_row_2"">
+				<div class=""et_pb_column et_pb_column_4_4 et_pb_column_3  et_pb_css_mix_blend_mode_passthrough et-last-child"">
+				
+				
+				
+				
+				<div class=""et_pb_module et_pb_wc_tabs et_pb_wc_tabs_0 et_pb_tabs "" >
+				
+				
+				
+				
+				<ul class=""et_pb_tabs_controls clearfix"">
+					<li class=""description_tab et_pb_tab_active""><a href=""#tab-description"">Descripción</a></li><li class=""additional_information_tab""><a href=""#tab-additional_information"">Información adicional</a></li><li class=""wcpoa_product_tab_tab""><a href=""#tab-wcpoa_product_tab"">Attachment</a></li>
+				</ul>
+				<div class=""et_pb_all_tabs"">
+					<div class=""et_pb_tab clearfix et_pb_active_content"">
+					<div class=""et_pb_tab_content"">
+						<p><b>Origen:</b> La Casa Gran, Sant Joan Samora – DO Penedès</p>
+<p>Clima mediterráneo cálido, suelos arcillo arenosos</p>
+<p><b>Graduación:</b> 12.70% vol.</p>
+<p><b>Acidez:</b> 4.6 g/l en ácido tartàrico</p>
+<p><b>Presentación:</b> 75 cl.</p>
+<p><b>Cierre:</b> corcho natural</p>
+<p><b>Composición varietal:</b>  Syrah</p>
+<p><b>Elaboración:</b> . Una parte del mosto se utilizó para la elaboración de vino rosado, por lo que el resto se ha macerado con la totalidad de las pieles, obteniendo una proporción mayor de hollejos que de mosto.</p>
+<p>La maceración duró 7 días con remontados diarios, hasta que se consideró separar las partes sólidas de las líquidas por decantación, añadiendo una pequeña parte del vino prensado, evitando la presencia de taninos agresivos y verdes</p>
+<p>Posteriormente se introdujo en barricas para redondearse durante la crianza, hasta su embotellado, en abril del 2024</p>
+<p>Previamente a su embotellado se filtró para evitar la presencia de precipitados sólidos, aunque la filtración ha sido respetuosa y ligera</p>
+<p><i>Debido a que las intervenciones sobre el vino han consistido en las mínimas para salvaguardar sus cualidades, puede presentar precipitados en el fondo de la botella</i></p>
+<p><b>Nota de cata:</b> Color rubí con reflejo granate. Aromas a fruta roja madura, especiado, toffes y tostados. En boca presenta una estructura sabrosa con taninos amables, con un paso potente y agradable, y una amplia persistencia</p>
+<p><b>Sugerencias de armonización:</b> caza, ternasco, chuletas de cordero, estofados, jamón, quesos de media curación</p>
+<p><b>Temperatura de Servicio:</b>  16 – 18 ºC</p>
+<p>Vino ecológico certificado por el CCPAE (Consell Català de Producció Agrària Ecològica), que controla el proceso de producción, elaboración, envasado y comercialización</p>
+
+					</div>
+				</div><div class=""et_pb_tab clearfix"">
+					<div class=""et_pb_tab_content"">
+						
+	<h2>Información adicional</h2>
+
+<table class=""woocommerce-product-attributes shop_attributes"" aria-label=""Detalles del producto"">
+			<tr class=""woocommerce-product-attributes-item woocommerce-product-attributes-item--weight"">
+			<th class=""woocommerce-product-attributes-item__label"" scope=""row"">Peso</th>
+			<td class=""woocommerce-product-attributes-item__value"">1,1 kg</td>
+		</tr>
+			<tr class=""woocommerce-product-attributes-item woocommerce-product-attributes-item--attribute_pa_lote"">
+			<th class=""woocommerce-product-attributes-item__label"" scope=""row"">Lote</th>
+			<td class=""woocommerce-product-attributes-item__value""><p>21222</p>
+</td>
+		</tr>
+	</table>
+
+					</div>
+				</div><div class=""et_pb_tab clearfix"">
+					<div class=""et_pb_tab_content"">
+						<p class=""attachment-restriction-msg""></p><div class=""wcpoa_attachment""><h4 class=""wcpoa_attachment_name  "">Ficha Técnica</h4><a class=""wcpoa_attachmentbtn"" href=""https://stjoannes.com/producto/matha_tinto-21?attachment_id=987537140&amp;download_file=9k949wldwet1r""> Download</a><p class=""wcpoa_attachment_desc  "">Ficha Técnica</p></div>            <style type=""text/css"" class=""custom_css_call_inline"">
+                        </style>
+            
+					</div>
+				</div>
+				</div>
+			</div><div class=""et_pb_module et_pb_wc_upsells et_pb_wc_upsells_0 et_pb_bg_layout_"">
+				
+				
+				
+				
+				
+				
+				<div class=""et_pb_module_inner"">
+					
+	<section class=""up-sells upsells products"">
+					<h2>También te recomendamos&hellip;</h2>
+		
+		<ul class=""products columns-3"">
+
+			
+				<li class=""product type-product post-987456328 status-publish first outofstock product_cat-blancos product_tag-blanco product_tag-matha has-post-thumbnail taxable shipping-taxable purchasable product-type-simple"">
+	<a href=""https://stjoannes.com/producto/matha"" class=""woocommerce-LoopProduct-link woocommerce-loop-product__link""><span class=""et_shop_image""><img loading=""lazy"" decoding=""async"" width=""600"" height=""600"" src=""https://stjoannes.com/wp-content/uploads/2019/12/MATHA-ECO-600x600.jpg"" class=""attachment-woocommerce_thumbnail size-woocommerce_thumbnail"" alt="""" srcset=""https://stjoannes.com/wp-content/uploads/2019/12/MATHA-ECO-600x600.jpg 600w, https://stjoannes.com/wp-content/uploads/2019/12/MATHA-ECO-480x480.jpg 480w"" sizes=""(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 600px, 100vw"" /><span class=""et_overlay""></span></span><h2 class=""woocommerce-loop-product__title"">BLANCO MATHA 2019 SANT JOANNES ECO</h2>
+	<span class=""price""><span class=""woocommerce-Price-amount amount""><bdi>9,92&nbsp;<span class=""woocommerce-Price-currencySymbol"">&euro;</span></bdi></span> <small class=""woocommerce-price-suffix"">Sin Iva</small></span>
+<a data-quantity=""6"" href=""https://stjoannes.com/producto/matha"" aria-describedby=""woocommerce_loop_add_to_cart_link_describedby_987456328"" data-quantity=""1"" class=""button product_type_simple"" data-product_id=""987456328"" data-product_sku=""MATHA"" aria-label=""Lee más sobre &ldquo;BLANCO MATHA 2019 SANT JOANNES ECO&rdquo;"" rel=""nofollow"" data-success_message="""" data-product_image_src=""https://stjoannes.com/wp-content/uploads/2019/12/MATHA-ECO-600x600.jpg"" data-product_image_width=""600"" data-product_image_height=""600"">Leer más</a>	<span id=""woocommerce_loop_add_to_cart_link_describedby_987456328"" class=""screen-reader-text"">
+			</span>
+</a></li>
+
+			
+				<li class=""product type-product post-987456327 status-publish outofstock product_cat-blancos product_tag-blanco has-post-thumbnail taxable shipping-taxable purchasable product-type-simple"">
+	<a href=""https://stjoannes.com/producto/sant-joannes"" class=""woocommerce-LoopProduct-link woocommerce-loop-product__link""><span class=""et_shop_image""><img loading=""lazy"" decoding=""async"" width=""600"" height=""600"" src=""https://stjoannes.com/wp-content/uploads/2019/12/SANT-JOANNES-XAREL-LO-2019-600x600.jpg"" class=""attachment-woocommerce_thumbnail size-woocommerce_thumbnail"" alt="""" srcset=""https://stjoannes.com/wp-content/uploads/2019/12/SANT-JOANNES-XAREL-LO-2019-600x600.jpg 600w, https://stjoannes.com/wp-content/uploads/2019/12/SANT-JOANNES-XAREL-LO-2019-480x480.jpg 480w"" sizes=""(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 600px, 100vw"" /><span class=""et_overlay""></span></span><h2 class=""woocommerce-loop-product__title"">BLANCO SANT JOANNES XAREL-LO 2019 ECO</h2>
+	<span class=""price""><span class=""woocommerce-Price-amount amount""><bdi>7,19&nbsp;<span class=""woocommerce-Price-currencySymbol"">&euro;</span></bdi></span> <small class=""woocommerce-price-suffix"">Sin Iva</small></span>
+<a data-quantity=""6"" href=""https://stjoannes.com/producto/sant-joannes"" aria-describedby=""woocommerce_loop_add_to_cart_link_describedby_987456327"" data-quantity=""1"" class=""button product_type_simple"" data-product_id=""987456327"" data-product_sku=""STJOANNESB"" aria-label=""Lee más sobre &ldquo;BLANCO SANT JOANNES XAREL-LO 2019 ECO&rdquo;"" rel=""nofollow"" data-success_message="""" data-product_image_src=""https://stjoannes.com/wp-content/uploads/2019/12/SANT-JOANNES-XAREL-LO-2019-600x600.jpg"" data-product_image_width=""600"" data-product_image_height=""600"">Leer más</a>	<span id=""woocommerce_loop_add_to_cart_link_describedby_987456327"" class=""screen-reader-text"">
+			</span>
+</a></li>
+
+			
+		</ul>
+
+	</section>
+
+	
+				</div>
+			</div><div class=""et_pb_module et_pb_wc_related_products et_pb_wc_related_products_0 et_pb_bg_layout_"">
+				
+				
+				
+				
+				
+				
+				<div class=""et_pb_module_inner"">
+					
+	<section class=""related products"">
+
+					<h2>Productos relacionados</h2>
+				
+		<ul class=""products columns-3"">
+
+			
+					<li class=""product type-product post-987458994 status-publish first instock product_cat-tintos product_tag-tinto has-post-thumbnail taxable shipping-taxable purchasable product-type-simple"">
+	<a href=""https://stjoannes.com/producto/sant-joannes-vino-tinto-2013"" class=""woocommerce-LoopProduct-link woocommerce-loop-product__link""><span class=""et_shop_image""><img loading=""lazy"" decoding=""async"" width=""600"" height=""600"" src=""https://stjoannes.com/wp-content/uploads/2020/03/ST-JOANNES-TINTO-13-1-600x600.jpg"" class=""attachment-woocommerce_thumbnail size-woocommerce_thumbnail"" alt="""" srcset=""https://stjoannes.com/wp-content/uploads/2020/03/ST-JOANNES-TINTO-13-1-600x600.jpg 600w, https://stjoannes.com/wp-content/uploads/2020/03/ST-JOANNES-TINTO-13-1-480x480.jpg 480w"" sizes=""(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 600px, 100vw"" /><span class=""et_overlay""></span></span><h2 class=""woocommerce-loop-product__title"">SANT JOANNES VINO TINTO 2013</h2>
+	<span class=""price""><span class=""woocommerce-Price-amount amount""><bdi>4,96&nbsp;<span class=""woocommerce-Price-currencySymbol"">&euro;</span></bdi></span> <small class=""woocommerce-price-suffix"">Sin Iva</small></span>
+<a data-quantity=""6"" href=""?add-to-cart=987458994"" aria-describedby=""woocommerce_loop_add_to_cart_link_describedby_987458994"" data-quantity=""1"" class=""button product_type_simple add_to_cart_button ajax_add_to_cart"" data-product_id=""987458994"" data-product_sku=""T2009-1"" aria-label=""Añadir al carrito: &ldquo;SANT JOANNES VINO TINTO 2013&rdquo;"" rel=""nofollow"" data-success_message=""«SANT JOANNES VINO TINTO 2013» se ha añadido a tu carrito"" data-product_image_src=""https://stjoannes.com/wp-content/uploads/2020/03/ST-JOANNES-TINTO-13-1-600x600.jpg"" data-product_image_width=""600"" data-product_image_height=""600"">Añadir al carrito</a>	<span id=""woocommerce_loop_add_to_cart_link_describedby_987458994"" class=""screen-reader-text"">
+			</span>
+</a></li>
+
+			
+					<li class=""product type-product post-987459520 status-publish outofstock product_cat-tintos product_tag-tinto has-post-thumbnail taxable shipping-taxable purchasable product-type-simple"">
+	<a href=""https://stjoannes.com/producto/sant-joannes-vino-tinto-2019"" class=""woocommerce-LoopProduct-link woocommerce-loop-product__link""><span class=""et_shop_image""><img loading=""lazy"" decoding=""async"" width=""600"" height=""600"" src=""https://stjoannes.com/wp-content/uploads/2020/06/stjoannes-tinto-2019-PREMIO-600x600.jpg"" class=""attachment-woocommerce_thumbnail size-woocommerce_thumbnail"" alt="""" srcset=""https://stjoannes.com/wp-content/uploads/2020/06/stjoannes-tinto-2019-PREMIO-600x600.jpg 600w, https://stjoannes.com/wp-content/uploads/2020/06/stjoannes-tinto-2019-PREMIO-480x480.jpg 480w"" sizes=""(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 600px, 100vw"" /><span class=""et_overlay""></span></span><h2 class=""woocommerce-loop-product__title"">SANT JOANNES VINO TINTO 2019 ECO</h2>
+	<span class=""price""><span class=""woocommerce-Price-amount amount""><bdi>11,00&nbsp;<span class=""woocommerce-Price-currencySymbol"">&euro;</span></bdi></span> <small class=""woocommerce-price-suffix"">Sin Iva</small></span>
+<a data-quantity=""6"" href=""https://stjoannes.com/producto/sant-joannes-vino-tinto-2019"" aria-describedby=""woocommerce_loop_add_to_cart_link_describedby_987459520"" data-quantity=""1"" class=""button product_type_simple"" data-product_id=""987459520"" data-product_sku=""T2009-1-1"" aria-label=""Lee más sobre &ldquo;SANT JOANNES VINO TINTO 2019 ECO&rdquo;"" rel=""nofollow"" data-success_message="""" data-product_image_src=""https://stjoannes.com/wp-content/uploads/2020/06/stjoannes-tinto-2019-PREMIO-600x600.jpg"" data-product_image_width=""600"" data-product_image_height=""600"">Leer más</a>	<span id=""woocommerce_loop_add_to_cart_link_describedby_987459520"" class=""screen-reader-text"">
+			</span>
+</a></li>
+
+			
+					<li class=""product type-product post-987459527 status-publish last instock product_cat-tintos product_tag-matha product_tag-tinto has-post-thumbnail taxable shipping-taxable purchasable product-type-simple"">
+	<a href=""https://stjoannes.com/producto/matha-2019"" class=""woocommerce-LoopProduct-link woocommerce-loop-product__link""><span class=""et_shop_image""><img loading=""lazy"" decoding=""async"" width=""600"" height=""600"" src=""https://stjoannes.com/wp-content/uploads/2020/06/TINTO-MATHA-2019-600x600.jpg"" class=""attachment-woocommerce_thumbnail size-woocommerce_thumbnail"" alt="""" srcset=""https://stjoannes.com/wp-content/uploads/2020/06/TINTO-MATHA-2019-600x600.jpg 600w, https://stjoannes.com/wp-content/uploads/2020/06/TINTO-MATHA-2019-480x480.jpg 480w"" sizes=""(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 600px, 100vw"" /><span class=""et_overlay""></span></span><h2 class=""woocommerce-loop-product__title"">TINTO MATHA 2019 ECO</h2>
+	<span class=""price""><span class=""woocommerce-Price-amount amount""><bdi>5,04&nbsp;<span class=""woocommerce-Price-currencySymbol"">&euro;</span></bdi></span> <small class=""woocommerce-price-suffix"">Sin Iva</small></span>
+<a data-quantity=""6"" href=""?add-to-cart=987459527"" aria-describedby=""woocommerce_loop_add_to_cart_link_describedby_987459527"" data-quantity=""1"" class=""button product_type_simple add_to_cart_button ajax_add_to_cart"" data-product_id=""987459527"" data-product_sku=""MATHA-1"" aria-label=""Añadir al carrito: &ldquo;TINTO MATHA 2019 ECO&rdquo;"" rel=""nofollow"" data-success_message=""«TINTO MATHA 2019 ECO» se ha añadido a tu carrito"" data-product_image_src=""https://stjoannes.com/wp-content/uploads/2020/06/TINTO-MATHA-2019-600x600.jpg"" data-product_image_width=""600"" data-product_image_height=""600"">Añadir al carrito</a>	<span id=""woocommerce_loop_add_to_cart_link_describedby_987459527"" class=""screen-reader-text"">
+			</span>
+</a></li>
+
+			
+		</ul>
+
+	</section>
+	
+				</div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div>
+				
+				
+			</div>
+",0,1,"2024-11-05 23:35:42",,6,,6,no,no,no,0,90,1,,dont-sync-and-show,deleted,2023-03-08,off,page,,"[et_pb_split_track id=""987531800"" /]",3,et_build_from_scratch,modified,{},label,,red,none,#D9534F,#fff,,no,,
+987531830,simple,STJOANNESB21,,"BLANCO MATHA 2021 SANT JOANNES ECO",1,0,visible,"PEDIDO MÍNIMO 1 CAJA\nCADA CAJA CONTIENE\n6 BOTELLAS DE 75cl.\n\nPrecio Caja  78€ (+ IVA ","[et_pb_section fb_built=""1"" _builder_version=""4.16"" custom_padding=""0px||||false|false"" global_colors_info=""{}""][et_pb_row _builder_version=""4.16"" background_size=""initial"" background_position=""top_left"" background_repeat=""repeat"" width=""100%"" custom_padding=""0px||0px||false|false"" global_colors_info=""{}""][et_pb_column type=""4_4"" _builder_version=""4.16"" custom_padding=""|||"" global_colors_info=""{}"" custom_padding__hover=""|||""][et_pb_wc_breadcrumb _builder_version=""4.16"" global_colors_info=""{}""][/et_pb_wc_breadcrumb][et_pb_wc_cart_notice _builder_version=""4.16"" global_colors_info=""{}""][/et_pb_wc_cart_notice][/et_pb_column][/et_pb_row][et_pb_row column_structure=""1_2,1_2"" _builder_version=""4.16"" background_size=""initial"" background_position=""top_left"" background_repeat=""repeat"" width=""100%"" custom_padding=""0px||||false|false"" global_colors_info=""{}""][et_pb_column type=""1_2"" _builder_version=""4.16"" custom_padding=""|||"" global_colors_info=""{}"" custom_padding__hover=""|||""][et_pb_wc_images _builder_version=""4.16"" global_colors_info=""{}""][/et_pb_wc_images][/et_pb_column][et_pb_column type=""1_2"" _builder_version=""4.16"" custom_padding=""|||"" global_colors_info=""{}"" custom_padding__hover=""|||""][et_pb_wc_title _builder_version=""4.16"" global_colors_info=""{}""][/et_pb_wc_title][et_pb_wc_rating _builder_version=""4.16"" global_colors_info=""{}""][/et_pb_wc_rating][et_pb_wc_price _builder_version=""4.16"" global_colors_info=""{}""][/et_pb_wc_price][et_pb_wc_description _builder_version=""4.16"" global_colors_info=""{}""][/et_pb_wc_description][et_pb_wc_add_to_cart _builder_version=""4.16"" global_colors_info=""{}""][/et_pb_wc_add_to_cart][et_pb_wc_meta _builder_version=""4.16"" global_colors_info=""{}""][/et_pb_wc_meta][/et_pb_column][/et_pb_row][et_pb_row _builder_version=""4.16"" background_size=""initial"" background_position=""top_left"" background_repeat=""repeat"" width=""100%"" global_colors_info=""{}""][et_pb_column type=""4_4"" _builder_version=""4.16"" custom_padding=""|||"" global_colors_info=""{}"" custom_padding__hover=""|||""][et_pb_wc_tabs _builder_version=""4.16"" global_colors_info=""{}""]					[/et_pb_wc_tabs][et_pb_wc_upsells _builder_version=""4.16"" global_colors_info=""{}""][/et_pb_wc_upsells][et_pb_wc_related_products _builder_version=""4.16"" global_colors_info=""{}""][/et_pb_wc_related_products][/et_pb_column][/et_pb_row][/et_pb_section]",,,taxable,,1,,,0,0,1.1,,,,0,,,13,Blancos,"Blanco, matha, novedad",,"https://stjoannes.com/wp-content/uploads/2023/03/BLANCO-MATHA-2021.jpg, https://stjoannes.com/wp-content/uploads/2023/03/BLANCO-MATHA-2021_CAJA.jpg, https://stjoannes.com/wp-content/uploads/2023/03/BLANCO-MATHA-2021.jpg",,,,,MATHA,"MATHA, STJOANNESB, STJOANNESR22",,,0,,Lote,210111,1,1,1,1,1578423269,no,et_no_sidebar,off,on,BB|Divi|3.12.1,,"<strong>Origen:</strong> La Casa Gran, Sant Joan Samora – DO Penedès Clima mediterráneo càlids, sòls argilo arenosos
+
+<strong>Graduación:</strong> 13,3 % vol.
+
+<strong>Acidez:</strong> 6,4 g/l en ácido tartárico
+
+<strong>Sulfitos</strong> <strong>totales</strong>: 59 ppm <strong>Acidez</strong> <strong>volátil:</strong> 0,27 g/l <strong>Azúcar</strong> <strong>residual:</strong> 1,6 g/l <strong>Presentación:</strong> 75 cl.
+
+<strong>Composició</strong> <strong>varietal:</strong> 100% Viognier
+
+<strong>Elaboración:</strong> vendimia manual seleccionada, despalillado y prensado a bajo rendimiento. El desfangado es estático durante 24 horas, al cabo de las cuales se trasiega e inicia la fermentación mediante inoculación de levaduras. La duración de la fermentación es de 15 días hasta que se para de forma espontánea. Se estabiliza de forma suave mediante frío y una ligera dosis de clarificador, tras los cuales se filtra y reposa hasta el embotellado, durante diciembre del año 2021
+
+<strong>Este</strong> <strong>vino</strong><strong> ha permanecido 12 meses en botella anteriormente a su salida al mercado,</strong> <strong>dado</strong> <strong>que se ha considerado que sus características necesitaban de una evolución en</strong> <strong>condiciones</strong> <strong>de bodega para obtener un producto de calidad óptima</strong>
+
+<em>Debido</em> <em>a que las intervenciones sobre el vino han consistido en las mínimas para</em> <em>salvaguardar</em> <em>sus</em> <em>cualidades,</em> <em>puede</em> <em>presentar</em> <em>precipitados</em> <em>en el fondo de la botella</em>
+
+<strong>Nota</strong> <strong>de cata: </strong>amarillo intenso, reflejos dorados. En nariz recuerda a los aromas varietales típicos (albaricoque), tonos de jalea y maleza (tomillo, espliego). En boca resulta amplio, con un recorrido largo y graso, marcado por un final de boca redondo
+
+<strong>Sugerencias</strong> <strong>de armonización: </strong>quesos de cabra crudo, pasta, carnes con salsas cremosas, rissottos
+
+<strong>Tem</strong><strong>p</strong><strong>er</strong><strong>atu</strong><strong>r</strong><strong>a </strong><strong>de Servei: </strong>8 – 10ºC
+
+<em>Vi ecològic certificat pel CCPAE (Consell Català de Producció Agrària Ecològica), que</em> <em>controla</em> <em>el procès de producción, elaboració, envasat i comercialització</em>",,,wc-all,,1,,"<div class=""et_pb_section et_pb_section_0 et_section_regular"" >
+				
+				
+				
+				
+				
+				
+				<div class=""et_pb_row et_pb_row_0"">
+				<div class=""et_pb_column et_pb_column_4_4 et_pb_column_0  et_pb_css_mix_blend_mode_passthrough et-last-child"">
+				
+				
+				
+				
+				<div class=""et_pb_module et_pb_wc_breadcrumb et_pb_wc_breadcrumb_0 et_pb_bg_layout_  et_pb_text_align_left"">
+				
+				
+				
+				
+				
+				
+				<div class=""et_pb_module_inner"">
+					<nav class=""woocommerce-breadcrumb"" aria-label=""Breadcrumb""><a href=""https://stjoannes.com"">Inicio</a>  /  Resultados de búsqueda para &ldquo;&rdquo;</nav>
+				</div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class=""et_pb_row et_pb_row_1"">
+				<div class=""et_pb_column et_pb_column_1_2 et_pb_column_1  et_pb_css_mix_blend_mode_passthrough"">
+				
+				
+				
+				
+				<div class=""et_pb_module et_pb_wc_images et_pb_wc_images_0 et_pb_bg_layout_"">
+				
+				
+				
+				
+				
+				
+				<div class=""et_pb_module_inner"">
+					<div class=""woocommerce-product-gallery woocommerce-product-gallery--with-images woocommerce-product-gallery--columns-4 images"" data-columns=""4"" style=""opacity: 0; transition: opacity .25s ease-in-out;"">
+	<div class=""woocommerce-product-gallery__wrapper"">
+		<div data-thumb=""https://stjoannes.com/wp-content/uploads/2023/03/BLANCO-MATHA-2021-100x100.jpg"" data-thumb-alt="""" class=""woocommerce-product-gallery__image""><a href=""https://stjoannes.com/wp-content/uploads/2023/03/BLANCO-MATHA-2021.jpg""><img fetchpriority=""high"" decoding=""async"" width=""900"" height=""900"" src=""https://stjoannes.com/wp-content/uploads/2023/03/BLANCO-MATHA-2021.jpg"" class=""wp-post-image"" alt="""" title=""BLANCO MATHA 2021"" data-caption="""" data-src=""https://stjoannes.com/wp-content/uploads/2023/03/BLANCO-MATHA-2021.jpg"" data-large_image=""https://stjoannes.com/wp-content/uploads/2023/03/BLANCO-MATHA-2021.jpg"" data-large_image_width=""900"" data-large_image_height=""900"" srcset=""https://stjoannes.com/wp-content/uploads/2023/03/BLANCO-MATHA-2021.jpg 900w, https://stjoannes.com/wp-content/uploads/2023/03/BLANCO-MATHA-2021-480x480.jpg 480w"" sizes=""(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 900px, 100vw"" /></a></div><div data-thumb=""https://stjoannes.com/wp-content/uploads/2023/03/BLANCO-MATHA-2021_CAJA-100x100.jpg"" data-thumb-alt="""" class=""woocommerce-product-gallery__image""><a href=""https://stjoannes.com/wp-content/uploads/2023/03/BLANCO-MATHA-2021_CAJA.jpg""><img loading=""lazy"" decoding=""async"" width=""300"" height=""300"" src=""https://stjoannes.com/wp-content/uploads/2023/03/BLANCO-MATHA-2021_CAJA.jpg"" class="""" alt="""" title=""BLANCO-MATHA-2021_CAJA"" data-caption="""" data-src=""https://stjoannes.com/wp-content/uploads/2023/03/BLANCO-MATHA-2021_CAJA.jpg"" data-large_image=""https://stjoannes.com/wp-content/uploads/2023/03/BLANCO-MATHA-2021_CAJA.jpg"" data-large_image_width=""300"" data-large_image_height=""300"" srcset=""https://stjoannes.com/wp-content/uploads/2023/03/BLANCO-MATHA-2021_CAJA.jpg 300w, https://stjoannes.com/wp-content/uploads/2023/03/BLANCO-MATHA-2021_CAJA-100x100.jpg 100w, https://stjoannes.com/wp-content/uploads/2023/03/BLANCO-MATHA-2021_CAJA-150x150.jpg 150w"" sizes=""(max-width: 300px) 100vw, 300px"" /></a></div><div data-thumb=""https://stjoannes.com/wp-content/uploads/2023/03/BLANCO-MATHA-2021-100x100.jpg"" data-thumb-alt="""" class=""woocommerce-product-gallery__image""><a href=""https://stjoannes.com/wp-content/uploads/2023/03/BLANCO-MATHA-2021.jpg""><img loading=""lazy"" decoding=""async"" width=""900"" height=""900"" src=""https://stjoannes.com/wp-content/uploads/2023/03/BLANCO-MATHA-2021.jpg"" class="""" alt="""" title=""BLANCO MATHA 2021"" data-caption="""" data-src=""https://stjoannes.com/wp-content/uploads/2023/03/BLANCO-MATHA-2021.jpg"" data-large_image=""https://stjoannes.com/wp-content/uploads/2023/03/BLANCO-MATHA-2021.jpg"" data-large_image_width=""900"" data-large_image_height=""900"" srcset=""https://stjoannes.com/wp-content/uploads/2023/03/BLANCO-MATHA-2021.jpg 900w, https://stjoannes.com/wp-content/uploads/2023/03/BLANCO-MATHA-2021-480x480.jpg 480w"" sizes=""(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 900px, 100vw"" /></a></div>	</div>
+</div>
+
+				</div>
+			</div>
+			</div><div class=""et_pb_column et_pb_column_1_2 et_pb_column_2  et_pb_css_mix_blend_mode_passthrough et-last-child"">
+				
+				
+				
+				
+				<div class=""et_pb_module et_pb_wc_title et_pb_wc_title_0 et_pb_bg_layout_light"">
+				
+				
+				
+				
+				
+				
+				<div class=""et_pb_module_inner"">
+					
+		<h1>BLANCO MATHA 2021 SANT JOANNES ECO</h1>
+				</div>
+			</div><div class=""et_pb_module et_pb_wc_price et_pb_wc_price_0"">
+				
+				
+				
+				
+				
+				
+				<div class=""et_pb_module_inner"">
+					<p class=""price""><span class=""woocommerce-Price-amount amount""><bdi>13,00&nbsp;<span class=""woocommerce-Price-currencySymbol"">&euro;</span></bdi></span> <small class=""woocommerce-price-suffix"">Sin Iva</small></p>
+
+				</div>
+			</div><div class=""et_pb_module et_pb_wc_description et_pb_wc_description_0 et_pb_bg_layout_light  et_pb_text_align_left"">
+				
+				
+				
+				
+				
+				
+				<div class=""et_pb_module_inner"">
+					<p>PEDIDO MÍNIMO 1 CAJA<br />
+CADA CAJA CONTIENE<br />
+6 BOTELLAS DE 75cl.</p>
+<p>Precio Caja  78€ (+ IVA </p>
+
+				</div>
+			</div><div class=""et_pb_module et_pb_wc_add_to_cart et_pb_wc_add_to_cart_0 et_pb_fields_label_position_default et_pb_bg_layout_  et_pb_text_align_left"">
+				
+				
+				
+				
+				
+				
+				<div class=""et_pb_module_inner"">
+					
+	
+	<form class=""cart"" action=""https://stjoannes.com/producto/blanco-matha-2021-sant-joannes-eco-copia"" method=""post"" enctype='multipart/form-data'>
+		
+		<div class=""quantity"">
+		<label class=""screen-reader-text"" for=""quantity_661005c8e8cb2"">BLANCO MATHA 2021 SANT JOANNES ECO cantidad</label>
+	<input
+		type=""number""
+				id=""quantity_661005c8e8cb2""
+		class=""input-text qty text""
+		name=""quantity""
+		value=""6""
+		aria-label=""Cantidad de productos""
+		size=""4""
+		min=""6""
+		max=""""
+					step=""6""
+			placeholder=""""
+			inputmode=""numeric""
+			autocomplete=""off""
+			/>
+	</div>
+
+		<button type=""submit"" name=""add-to-cart"" value=""987531830"" class=""single_add_to_cart_button button alt"">Añadir al carrito</button>
+
+		<meta class=""xt_woofc-product-image"" data-product_image_src=""https://stjoannes.com/wp-content/uploads/2023/03/BLANCO-MATHA-2021-600x600.jpg"" data-product_image_width=""600"" data-product_image_height=""600"" />	</form>
+
+	
+
+				</div>
+			</div><div class=""et_pb_module et_pb_wc_meta et_pb_wc_meta_0 et_pb_bg_layout_ et_pb_wc_meta_layout_inline"">
+				
+				
+				
+				
+				
+				
+				<div class=""et_pb_module_inner"">
+					<div class=""product_meta"">
+
+	
+	
+		<span class=""sku_wrapper"">SKU: <span class=""sku"">STJOANNESB21</span></span>
+
+	
+	<span class=""posted_in"">Categoría: <a href=""https://stjoannes.com/categoria-producto/blancos"" rel=""tag"">Blancos</a></span>
+	<span class=""tagged_as"">Etiquetas: <a href=""https://stjoannes.com/etiqueta-producto/blanco"" rel=""tag"">Blanco</a>, <a href=""https://stjoannes.com/etiqueta-producto/matha"" rel=""tag"">matha</a>, <a href=""https://stjoannes.com/etiqueta-producto/novedad"" rel=""tag"">novedad</a></span>
+	
+</div>
+
+				</div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class=""et_pb_row et_pb_row_2"">
+				<div class=""et_pb_column et_pb_column_4_4 et_pb_column_3  et_pb_css_mix_blend_mode_passthrough et-last-child"">
+				
+				
+				
+				
+				<div class=""et_pb_module et_pb_wc_tabs et_pb_wc_tabs_0 et_pb_tabs "" >
+				
+				
+				
+				
+				<ul class=""et_pb_tabs_controls clearfix"">
+					<li class=""description_tab et_pb_tab_active""><a href=""#tab-description"">Descripción</a></li><li class=""additional_information_tab""><a href=""#tab-additional_information"">Información adicional</a></li><li class=""wcpoa_product_tab_tab""><a href=""#tab-wcpoa_product_tab"">Attachment</a></li>
+				</ul>
+				<div class=""et_pb_all_tabs"">
+					<div class=""et_pb_tab clearfix et_pb_active_content"">
+					<div class=""et_pb_tab_content"">
+						<p><strong>Origen:</strong> La Casa Gran, Sant Joan Samora – DO Penedès Clima mediterráneo càlids, sòls argilo arenosos</p>
+<p><strong>Graduación:</strong> 13,3 % vol.</p>
+<p><strong>Acidez:</strong> 6,4 g/l en ácido tartárico</p>
+<p><strong>Sulfitos</strong> <strong>totales</strong>: 59 ppm <strong>Acidez</strong> <strong>volátil:</strong> 0,27 g/l <strong>Azúcar</strong> <strong>residual:</strong> 1,6 g/l <strong>Presentación:</strong> 75 cl.</p>
+<p><strong>Composició</strong> <strong>varietal:</strong> 100% Viognier</p>
+<p><strong>Elaboración:</strong> vendimia manual seleccionada, despalillado y prensado a bajo rendimiento. El desfangado es estático durante 24 horas, al cabo de las cuales se trasiega e inicia la fermentación mediante inoculación de levaduras. La duración de la fermentación es de 15 días hasta que se para de forma espontánea. Se estabiliza de forma suave mediante frío y una ligera dosis de clarificador, tras los cuales se filtra y reposa hasta el embotellado, durante diciembre del año 2021</p>
+<p><strong>Este</strong> <strong>vino</strong><strong> ha permanecido 12 meses en botella anteriormente a su salida al mercado,</strong> <strong>dado</strong> <strong>que se ha considerado que sus características necesitaban de una evolución en</strong> <strong>condiciones</strong> <strong>de bodega para obtener un producto de calidad óptima</strong></p>
+<p><em>Debido</em> <em>a que las intervenciones sobre el vino han consistido en las mínimas para</em> <em>salvaguardar</em> <em>sus</em> <em>cualidades,</em> <em>puede</em> <em>presentar</em> <em>precipitados</em> <em>en el fondo de la botella</em></p>
+<p><strong>Nota</strong> <strong>de cata: </strong>amarillo intenso, reflejos dorados. En nariz recuerda a los aromas varietales típicos (albaricoque), tonos de jalea y maleza (tomillo, espliego). En boca resulta amplio, con un recorrido largo y graso, marcado por un final de boca redondo</p>
+<p><strong>Sugerencias</strong> <strong>de armonización: </strong>quesos de cabra crudo, pasta, carnes con salsas cremosas, rissottos</p>
+<p><strong>Tem</strong><strong>p</strong><strong>er</strong><strong>atu</strong><strong>r</strong><strong>a </strong><strong>de Servei: </strong>8 – 10ºC</p>
+<p><em>Vi ecològic certificat pel CCPAE (Consell Català de Producció Agrària Ecològica), que</em> <em>controla</em> <em>el procès de producción, elaboració, envasat i comercialització</em></p>
+
+					</div>
+				</div><div class=""et_pb_tab clearfix"">
+					<div class=""et_pb_tab_content"">
+						
+	<h2>Información adicional</h2>
+
+<table class=""woocommerce-product-attributes shop_attributes"">
+			<tr class=""woocommerce-product-attributes-item woocommerce-product-attributes-item--weight"">
+			<th class=""woocommerce-product-attributes-item__label"">Peso</th>
+			<td class=""woocommerce-product-attributes-item__value"">1,1 kg</td>
+		</tr>
+			<tr class=""woocommerce-product-attributes-item woocommerce-product-attributes-item--attribute_pa_lote"">
+			<th class=""woocommerce-product-attributes-item__label"">Lote</th>
+			<td class=""woocommerce-product-attributes-item__value""><p>210111</p>
+</td>
+		</tr>
+	</table>
+
+					</div>
+				</div><div class=""et_pb_tab clearfix"">
+					<div class=""et_pb_tab_content"">
+						<p class=""attachment-restriction-msg""></p>            <style type=""text/css"">
+            #tab-title-wcpoa_product_tab, [id$=""wcpoa_product_tab""], .wcpoa_product_tab_tab {
+                display: none !important;
+            }
+            </style>
+                        <style type=""text/css"" class=""custom_css_call_inline"">
+                        </style>
+            
+					</div>
+				</div>
+				</div>
+			</div><div class=""et_pb_module et_pb_wc_upsells et_pb_wc_upsells_0 et_pb_bg_layout_"">
+				
+				
+				
+				
+				
+				
+				<div class=""et_pb_module_inner"">
+					
+	<section class=""up-sells upsells products"">
+					<h2>También te recomendamos&hellip;</h2>
+		
+		<ul class=""products columns-3"">
+
+			
+				<li class=""product type-product post-987456328 status-publish first instock product_cat-blancos product_tag-blanco product_tag-matha has-post-thumbnail taxable shipping-taxable purchasable product-type-simple"">
+	<a href=""https://stjoannes.com/producto/matha"" class=""woocommerce-LoopProduct-link woocommerce-loop-product__link""><span class=""et_shop_image""><img loading=""lazy"" decoding=""async"" width=""600"" height=""600"" src=""https://stjoannes.com/wp-content/uploads/2019/12/MATHA-ECO-600x600.jpg"" class=""attachment-woocommerce_thumbnail size-woocommerce_thumbnail"" alt="""" srcset=""https://stjoannes.com/wp-content/uploads/2019/12/MATHA-ECO-600x600.jpg 600w, https://stjoannes.com/wp-content/uploads/2019/12/MATHA-ECO-480x480.jpg 480w"" sizes=""(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 600px, 100vw"" /><span class=""et_overlay""></span></span><h2 class=""woocommerce-loop-product__title"">BLANCO MATHA ECO</h2>
+	<span class=""price""><span class=""woocommerce-Price-amount amount""><bdi>9,92&nbsp;<span class=""woocommerce-Price-currencySymbol"">&euro;</span></bdi></span> <small class=""woocommerce-price-suffix"">Sin Iva</small></span>
+<a data-quantity=""6"" href=""?add-to-cart=987456328"" data-quantity=""1"" class=""button product_type_simple add_to_cart_button ajax_add_to_cart"" data-product_id=""987456328"" data-product_sku=""MATHA"" aria-label=""Añadir al carrito: &ldquo;BLANCO MATHA ECO&rdquo;"" aria-describedby="""" rel=""nofollow"" data-product_image_src=""https://stjoannes.com/wp-content/uploads/2019/12/MATHA-ECO-600x600.jpg"" data-product_image_width=""600"" data-product_image_height=""600"">Añadir al carrito</a></a></li>
+
+			
+		</ul>
+
+	</section>
+
+	
+				</div>
+			</div><div class=""et_pb_module et_pb_wc_related_products et_pb_wc_related_products_0 et_pb_bg_layout_"">
+				
+				
+				
+				
+				
+				
+				<div class=""et_pb_module_inner"">
+					
+	<section class=""related products"">
+
+					<h2>Productos relacionados</h2>
+				
+		<ul class=""products columns-3"">
+
+			
+					<li class=""product type-product post-987456327 status-publish first instock product_cat-blancos product_tag-blanco has-post-thumbnail taxable shipping-taxable purchasable product-type-simple"">
+	<a href=""https://stjoannes.com/producto/sant-joannes"" class=""woocommerce-LoopProduct-link woocommerce-loop-product__link""><span class=""et_shop_image""><img loading=""lazy"" decoding=""async"" width=""600"" height=""600"" src=""https://stjoannes.com/wp-content/uploads/2019/12/SANT-JOANNES-XAREL-LO-2019-600x600.jpg"" class=""attachment-woocommerce_thumbnail size-woocommerce_thumbnail"" alt="""" srcset=""https://stjoannes.com/wp-content/uploads/2019/12/SANT-JOANNES-XAREL-LO-2019-600x600.jpg 600w, https://stjoannes.com/wp-content/uploads/2019/12/SANT-JOANNES-XAREL-LO-2019-480x480.jpg 480w"" sizes=""(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 600px, 100vw"" /><span class=""et_overlay""></span></span><h2 class=""woocommerce-loop-product__title"">BLANCO SANT JOANNES XAREL-LO 2019 ECO</h2>
+	<span class=""price""><span class=""woocommerce-Price-amount amount""><bdi>7,19&nbsp;<span class=""woocommerce-Price-currencySymbol"">&euro;</span></bdi></span> <small class=""woocommerce-price-suffix"">Sin Iva</small></span>
+<a data-quantity=""6"" href=""?add-to-cart=987456327"" data-quantity=""1"" class=""button product_type_simple add_to_cart_button ajax_add_to_cart"" data-product_id=""987456327"" data-product_sku=""STJOANNESB"" aria-label=""Añadir al carrito: &ldquo;BLANCO SANT JOANNES XAREL-LO 2019 ECO&rdquo;"" aria-describedby="""" rel=""nofollow"" data-product_image_src=""https://stjoannes.com/wp-content/uploads/2019/12/SANT-JOANNES-XAREL-LO-2019-600x600.jpg"" data-product_image_width=""600"" data-product_image_height=""600"">Añadir al carrito</a></a></li>
+
+			
+					<li class=""product type-product post-987531800 status-publish instock product_cat-tintos product_tag-matha product_tag-novedad product_tag-tinto has-post-thumbnail taxable shipping-taxable purchasable product-type-simple"">
+	<a href=""https://stjoannes.com/producto/tinto-matha-2021"" class=""woocommerce-LoopProduct-link woocommerce-loop-product__link""><span class=""et_shop_image""><img loading=""lazy"" decoding=""async"" width=""600"" height=""600"" src=""https://stjoannes.com/wp-content/uploads/2023/03/TINTO-MATHA-2021-600x600.jpg"" class=""attachment-woocommerce_thumbnail size-woocommerce_thumbnail"" alt="""" srcset=""https://stjoannes.com/wp-content/uploads/2023/03/TINTO-MATHA-2021-600x600.jpg 600w, https://stjoannes.com/wp-content/uploads/2023/03/TINTO-MATHA-2021-480x480.jpg 480w"" sizes=""(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 600px, 100vw"" /><span class=""et_overlay""></span></span><h2 class=""woocommerce-loop-product__title"">TINTO MATHA 2021 ECO</h2>
+	<span class=""price""><span class=""woocommerce-Price-amount amount""><bdi>12,00&nbsp;<span class=""woocommerce-Price-currencySymbol"">&euro;</span></bdi></span> <small class=""woocommerce-price-suffix"">Sin Iva</small></span>
+<a data-quantity=""6"" href=""?add-to-cart=987531800"" data-quantity=""1"" class=""button product_type_simple add_to_cart_button ajax_add_to_cart"" data-product_id=""987531800"" data-product_sku=""MATHATINTO21"" aria-label=""Añadir al carrito: &ldquo;TINTO MATHA 2021 ECO&rdquo;"" aria-describedby="""" rel=""nofollow"" data-product_image_src=""https://stjoannes.com/wp-content/uploads/2023/03/TINTO-MATHA-2021-600x600.jpg"" data-product_image_width=""600"" data-product_image_height=""600"">Añadir al carrito</a></a></li>
+
+			
+					<li class=""product type-product post-987459754 status-publish last instock product_cat-blancos product_tag-blanco product_tag-novedad has-post-thumbnail taxable shipping-taxable purchasable product-type-simple"">
+	<a href=""https://stjoannes.com/producto/st-joannes-blanco-21"" class=""woocommerce-LoopProduct-link woocommerce-loop-product__link""><span class=""et_shop_image""><img loading=""lazy"" decoding=""async"" width=""600"" height=""600"" src=""https://stjoannes.com/wp-content/uploads/2022/03/ST-JOANNES-BLANCO-21-600x600.jpg"" class=""attachment-woocommerce_thumbnail size-woocommerce_thumbnail"" alt="""" srcset=""https://stjoannes.com/wp-content/uploads/2022/03/ST-JOANNES-BLANCO-21-600x600.jpg 600w, https://stjoannes.com/wp-content/uploads/2022/03/ST-JOANNES-BLANCO-21-480x480.jpg 480w"" sizes=""(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 600px, 100vw"" /><span class=""et_overlay""></span></span><h2 class=""woocommerce-loop-product__title"">ST JOANNES BLANCO 21</h2>
+	<span class=""price""><span class=""woocommerce-Price-amount amount""><bdi>15,00&nbsp;<span class=""woocommerce-Price-currencySymbol"">&euro;</span></bdi></span> <small class=""woocommerce-price-suffix"">Sin Iva</small></span>
+<a data-quantity=""6"" href=""?add-to-cart=987459754"" data-quantity=""1"" class=""button product_type_simple add_to_cart_button ajax_add_to_cart"" data-product_id=""987459754"" data-product_sku=""STJOANNESB21-1"" aria-label=""Añadir al carrito: &ldquo;ST JOANNES BLANCO 21&rdquo;"" aria-describedby="""" rel=""nofollow"" data-product_image_src=""https://stjoannes.com/wp-content/uploads/2022/03/ST-JOANNES-BLANCO-21-600x600.jpg"" data-product_image_width=""600"" data-product_image_height=""600"">Añadir al carrito</a></a></li>
+
+			
+		</ul>
+
+	</section>
+	
+				</div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div>
+				
+				
+			</div>
+",0,1,"2024-04-05 14:08:09",,6,,6,no,no,no,0,90,2,,dont-sync-and-show,deleted,2023-03-08,off,page,,"[et_pb_split_track id=""987531830"" /]",3,et_build_from_scratch,modified,{},,,,,,,,,,
+987537082,simple,STJOANNESR23,,"ST JOANNES ROSÉ 23 ECO",1,0,visible,"PEDIDO MÍNIMO 1 CAJA\nCADA CAJA CONTIENE\n6 BOTELLAS DE 75cl.\n\nPrecio Caja  60€ (+ IVA)","[et_pb_section fb_built=""1"" _builder_version=""4.16"" custom_padding=""0px||||false|false"" global_colors_info=""{}""][et_pb_row _builder_version=""4.16"" background_size=""initial"" background_position=""top_left"" background_repeat=""repeat"" width=""100%"" custom_padding=""0px||0px||false|false"" global_colors_info=""{}""][et_pb_column type=""4_4"" _builder_version=""4.16"" custom_padding=""|||"" global_colors_info=""{}"" custom_padding__hover=""|||""][et_pb_wc_breadcrumb _builder_version=""4.16"" global_colors_info=""{}""][/et_pb_wc_breadcrumb][et_pb_wc_cart_notice _builder_version=""4.16"" global_colors_info=""{}""][/et_pb_wc_cart_notice][/et_pb_column][/et_pb_row][et_pb_row column_structure=""1_2,1_2"" _builder_version=""4.16"" background_size=""initial"" background_position=""top_left"" background_repeat=""repeat"" width=""100%"" custom_padding=""0px||||false|false"" global_colors_info=""{}""][et_pb_column type=""1_2"" _builder_version=""4.16"" custom_padding=""|||"" global_colors_info=""{}"" custom_padding__hover=""|||""][et_pb_wc_images _builder_version=""4.16"" global_colors_info=""{}""][/et_pb_wc_images][/et_pb_column][et_pb_column type=""1_2"" _builder_version=""4.16"" custom_padding=""|||"" global_colors_info=""{}"" custom_padding__hover=""|||""][et_pb_wc_title _builder_version=""4.16"" global_colors_info=""{}""][/et_pb_wc_title][et_pb_wc_rating _builder_version=""4.16"" global_colors_info=""{}""][/et_pb_wc_rating][et_pb_wc_price _builder_version=""4.16"" global_colors_info=""{}""][/et_pb_wc_price][et_pb_wc_description _builder_version=""4.16"" global_colors_info=""{}""][/et_pb_wc_description][et_pb_wc_add_to_cart _builder_version=""4.16"" global_colors_info=""{}""][/et_pb_wc_add_to_cart][et_pb_wc_meta _builder_version=""4.16"" global_colors_info=""{}""][/et_pb_wc_meta][/et_pb_column][/et_pb_row][et_pb_row _builder_version=""4.16"" background_size=""initial"" background_position=""top_left"" background_repeat=""repeat"" width=""100%"" global_colors_info=""{}""][et_pb_column type=""4_4"" _builder_version=""4.16"" custom_padding=""|||"" global_colors_info=""{}"" custom_padding__hover=""|||""][et_pb_wc_tabs _builder_version=""4.16"" global_colors_info=""{}""]					[/et_pb_wc_tabs][et_pb_wc_upsells _builder_version=""4.16"" global_colors_info=""{}""][/et_pb_wc_upsells][et_pb_wc_related_products _builder_version=""4.16"" global_colors_info=""{}""][/et_pb_wc_related_products][/et_pb_column][/et_pb_row][/et_pb_section]",,,taxable,,1,,,0,0,1.1,,,,0,,,10,Rosados,"novedad, rosado",,"https://stjoannes.com/wp-content/uploads/2024/10/ST-JOANNES-ROSE-23-ECO_1.png, https://stjoannes.com/wp-content/uploads/2022/03/St-Joannes-Rose-21-CAJA.jpg, https://stjoannes.com/wp-content/uploads/2024/10/QR-definitivo-St-Joannes-Rose.jpeg",,,,,STJOANNESR21,"MATHA, STJOANNESB, STJOANNESR22",,,0,,Lote,23031,1,1,1,1,1578423269,no,et_no_sidebar,off,on,BB|Divi|3.12.1,,"<b>Origen:</b> La Casa Gran, Sant Joan Samora – DO Penedès
+
+Clima mediterráneo cálido, suelos arcillo arenosos
+
+<b>Graduación:</b> 14.77% vol.
+
+<b>Acidez:</b> 3.4 g/l en ácido tartárico
+
+<b>Presentación:</b> 70 cl.
+
+<b>Cierre:</b> corcho natural
+
+<b>Composición varietal:</b> Cabernet sauvignon
+
+<b>Elaboración:</b> vendimia manual seleccionada, despalillado y prensado directo suave. Desfangado estático y fermentación a temperatura controlada. Clarificación y filtración ligeras, se embotelló en abril del 2024
+
+<b>Nota de cata:</b> vino rosado de color cereza ácida. Notas perfumadas de bayas silvestres, frutas rojas y  cítricos. Presenta un gran cuerpo, estructurado y compensado con una acidez fina, que le aporta sutileza y un post-gusto largo y agradable
+
+<b>Sugerencias de armonización:</b> ensaladas de pasta y quinoa, platos con verduras, sushi
+
+<b>Temperatura de Servicio:</b>  8– 10ºC
+
+Vino ecológico certificado por el CCPAE (Consell Català de Producció Agrària Ecològica), que controla el proceso de producción, elaboración, envasado y comercialización",,,wc-all,,1,,,0,1,,,6,,6,no,no,no,0,90,2,,dont-sync-and-show,deleted,2024-10-29,off,page,,"[et_pb_split_track id=""987537082"" /]",3,et_default_layout,modified,{},ribbon,Novedad,red,left,#D9534F,#fff,,no,66,
+987537115,simple,STJOANNESORANGE23,,"ST JOANNES ORANGE 23 ECO",1,0,visible,"PEDIDO MÍNIMO 1 CAJA\nCADA CAJA CONTIENE\n6 BOTELLAS DE 75cl.\n\nPrecio Caja  60€ (+ IVA)","[et_pb_section fb_built=""1"" _builder_version=""4.16"" custom_padding=""0px||||false|false"" global_colors_info=""{}""][et_pb_row _builder_version=""4.16"" background_size=""initial"" background_position=""top_left"" background_repeat=""repeat"" width=""100%"" custom_padding=""0px||0px||false|false"" global_colors_info=""{}""][et_pb_column type=""4_4"" _builder_version=""4.16"" custom_padding=""|||"" global_colors_info=""{}"" custom_padding__hover=""|||""][et_pb_wc_breadcrumb _builder_version=""4.16"" global_colors_info=""{}""][/et_pb_wc_breadcrumb][et_pb_wc_cart_notice _builder_version=""4.16"" global_colors_info=""{}""][/et_pb_wc_cart_notice][/et_pb_column][/et_pb_row][et_pb_row column_structure=""1_2,1_2"" _builder_version=""4.16"" background_size=""initial"" background_position=""top_left"" background_repeat=""repeat"" width=""100%"" custom_padding=""0px||||false|false"" global_colors_info=""{}""][et_pb_column type=""1_2"" _builder_version=""4.16"" custom_padding=""|||"" global_colors_info=""{}"" custom_padding__hover=""|||""][et_pb_wc_images _builder_version=""4.16"" global_colors_info=""{}""][/et_pb_wc_images][/et_pb_column][et_pb_column type=""1_2"" _builder_version=""4.16"" custom_padding=""|||"" global_colors_info=""{}"" custom_padding__hover=""|||""][et_pb_wc_title _builder_version=""4.16"" global_colors_info=""{}""][/et_pb_wc_title][et_pb_wc_rating _builder_version=""4.16"" global_colors_info=""{}""][/et_pb_wc_rating][et_pb_wc_price _builder_version=""4.16"" global_colors_info=""{}""][/et_pb_wc_price][et_pb_wc_description _builder_version=""4.16"" global_colors_info=""{}""][/et_pb_wc_description][et_pb_wc_add_to_cart _builder_version=""4.16"" global_colors_info=""{}""][/et_pb_wc_add_to_cart][et_pb_wc_meta _builder_version=""4.16"" global_colors_info=""{}""][/et_pb_wc_meta][/et_pb_column][/et_pb_row][et_pb_row _builder_version=""4.16"" background_size=""initial"" background_position=""top_left"" background_repeat=""repeat"" width=""100%"" global_colors_info=""{}""][et_pb_column type=""4_4"" _builder_version=""4.16"" custom_padding=""|||"" global_colors_info=""{}"" custom_padding__hover=""|||""][et_pb_wc_tabs _builder_version=""4.16"" global_colors_info=""{}""] [/et_pb_wc_tabs][et_pb_wc_upsells _builder_version=""4.16"" global_colors_info=""{}""][/et_pb_wc_upsells][et_pb_wc_related_products _builder_version=""4.16"" global_colors_info=""{}""][/et_pb_wc_related_products][/et_pb_column][/et_pb_row][/et_pb_section]",,,taxable,,1,,,0,0,1.1,,,,0,,,9,Rosados,"Blanco, novedad, rosado",,"https://stjoannes.com/wp-content/uploads/2024/10/foto-botella-St-Joannes-orange_2.png, https://stjoannes.com/wp-content/uploads/2024/10/QR-definitivo-St-Joannes-Orange-1.jpeg, https://stjoannes.com/wp-content/uploads/2024/10/foto-tienda-St-Joannes-orange.png",,,,,"STJOANNESR21, STJOANNESR23","MATHA, STJOANNESB, STJOANNESR22",,,0,,Lote,23007,1,1,1,1,1578423269,no,et_no_sidebar,off,on,BB|Divi|3.12.1,,"<b>Origen:</b> La Casa Gran, Sant Joan Samora – DO Penedès
+
+Clima mediterráneo cálido, suelos arcillo arenosos
+
+<b>Graduación:</b> 12,21% vol.
+
+<b>Acidez:</b> 5,5 g/l en ácido tartárico
+
+<b>Presentación:</b> 70 cl.
+
+<b>Cierre:</b> corcho natural
+
+<b>Composición varietal:</b> Xarel·lo, Viognier
+
+<b>Elaboración:</b> vendimia manual seleccionada, despalillado y maceración – fermentación en depósito durante 21 días. Clarificación espontánea, embotellado sin filtrar durante el mes de abril de 2024
+
+<b>Nota de cata:</b> color amarillo pajizo con reflejos dorados, fruto de la maceración del vino con las pieles. En nariz es afrutado y elegante, con fondo de manzanas al horno, limón y piel de albaricoque. En boca tiene volumen e intensidad, con una buena acidez. Presenta un agradable toque de taninos, frutoso, final salino
+
+<b>Sugerencias de armonización:</b> fideuà y arroces, pescados blancos, carnes a la plancha, embutidos y quesos semi curados
+
+<b>Temperatura de Servicio:</b>  10 – 12ºC",,,wc-all,,1,,,0,1,,,6,,6,no,no,no,0,90,2,,dont-sync-and-show,deleted,2024-10-29,off,page,,"[et_pb_split_track id=""987537115"" /]",3,et_default_layout,modified,{},ribbon,Novedad,red,left,#D9534F,#fff,,no,66,
+987537137,simple,STJOANNESB23,,"ST JOANNES BLANCO 23 ECO",1,0,visible,"PEDIDO MÍNIMO 1 CAJA\nCADA CAJA CONTIENE\n6 BOTELLAS DE 75cl.\n\nPrecio Caja  78€ (+ IVA)","<b>Origen:</b> La Casa Gran, Sant Joan Samora – DO Penedès\n\nClima mediterráneo cálido, suelos arcillo arenosos\n\n<b>Graduación:</b> 12,6% vol.\n\n<b>Acidez:</b> 4.0 g/l en ácido tartàrico\n\n<b>Presentación:</b> 75 cl.\n\n<b>Cierre:</b> corcho natural\n\n<b>Composición varietal:</b> Xarel·lo\n\n<b>Elaboración:</b> vendimia manual seleccionada, despalillado y suave prensado para conseguir el mosto de mayor calidad posible. Desfangado estático y fermentación a temperatura controlada, se mantuvo con sus lías durante unas semanas. Clarificación y filtración ligeras, se embotelló en abril del 2024\n\n<b>Nota de cata:</b> vino blanco joven y fresco. En nariz muestra aromas de pera y limón, enlazados con toques de hierbas mediterráneas. En boca es ligero, con una acidez equilibrada que expresa la esencia de la fruta fresca, perfecto para disfrutar durante 2-3 años posteriores a su embotellado\n\n<b>Sugerencias de armonización:</b> ahumados, quesos blandos, marisco, arroces\n\n<b>Temperatura de Servicio:</b>  7 – 10ºC\n\nVino ecológico certificado por el CCPAE (Consell Català de Producció Agrària Ecològica), que controla el proceso de producción, elaboración, envasado y comercialización",,,taxable,,1,,,0,0,1.1,,,,0,,,13,Blancos,"Blanco, novedad",,"https://stjoannes.com/wp-content/uploads/2022/03/ST-JOANNES-BLANCO-21.jpg, https://stjoannes.com/wp-content/uploads/2022/03/ST-JOANNES-BLANCO-21CAJA.jpg, https://stjoannes.com/wp-content/uploads/2024/10/QR-definitivo-St-Joannes-blanco.jpeg",,,,,MATHA,"STJOANNESB20, STJOANNESB",,,0,,Lote,23001,1,1,1,1,1578423269,no,et_no_sidebar,off,,BB|Divi|3.12.1,hourly,,,,wc-all,,1,,,0,1,,,6,,6,no,no,no,0,90,1,,dont-sync-and-show,deleted,2024-10-29,,,,,,,,,ribbon,Novedad,red,none,#D9534F,#fff,,no,,
+987537139,simple,MATHAT21ECO,,"MATHA TINTO 21 CRIANZA ECO",1,0,visible,"PEDIDO MÍNIMO 1 CAJA\nCADA CAJA CONTIENE\n6 BOTELLAS DE 75cl.\n\nPrecio Caja  78€ (IVA Incluído)","<b>Origen:</b> La Casa Gran, Sant Joan Samora – DO Penedès\n\nClima mediterráneo cálido, suelos arcillo arenosos\n\n<b>Graduación:</b> 12.70% vol.\n\n<b>Acidez:</b> 4.6 g/l en ácido tartàrico\n\n<b>Presentación:</b> 75 cl.\n\n<b>Cierre:</b> corcho natural\n\n<b>Composición varietal:</b>  Syrah\n\n<b>Elaboración:</b> . Una parte del mosto se utilizó para la elaboración de vino rosado, por lo que el resto se ha macerado con la totalidad de las pieles, obteniendo una proporción mayor de hollejos que de mosto.\n\nLa maceración duró 7 días con remontados diarios, hasta que se consideró separar las partes sólidas de las líquidas por decantación, añadiendo una pequeña parte del vino prensado, evitando la presencia de taninos agresivos y verdes\n\nPosteriormente se introdujo en barricas para redondearse durante la crianza, hasta su embotellado, en abril del 2024\n\nPreviamente a su embotellado se filtró para evitar la presencia de precipitados sólidos, aunque la filtración ha sido respetuosa y ligera\n\n<i>Debido a que las intervenciones sobre el vino han consistido en las mínimas para salvaguardar sus cualidades, puede presentar precipitados en el fondo de la botella</i>\n\n<b>Nota de cata:</b> Color rubí con reflejo granate. Aromas a fruta roja madura, especiado, toffes y tostados. En boca presenta una estructura sabrosa con taninos amables, con un paso potente y agradable, y una amplia persistencia\n\n<b>Sugerencias de armonización:</b> caza, ternasco, chuletas de cordero, estofados, jamón, quesos de media curación\n\n<b>Temperatura de Servicio:</b>  16 – 18 ºC\n\nVino ecológico certificado por el CCPAE (Consell Català de Producció Agrària Ecològica), que controla el proceso de producción, elaboración, envasado y comercialización",,,taxable,,1,,,0,0,1.1,,,,0,,,13,Tintos,tinto,,"https://stjoannes.com/wp-content/uploads/2024/10/MathaTinto21_tienda.png, https://stjoannes.com/wp-content/uploads/2024/10/QR-definitivo-Matha-tinto-crianza.jpeg, https://stjoannes.com/wp-content/uploads/2024/10/MathaTinto21_tiendaBolsa.png",,,,,"MATHA, STJOANNESB","MATHA, STJOANNESB",,,0,,Lote,21222,1,1,1,1,1576254256,default,et_no_sidebar,off,,BB|Divi|3.25.3,hourly,,,,wc-all,,1,,,0,1,,,6,,6,no,no,no,0,90,2,,dont-sync-and-show,deleted,2024-10-29,,,,,,,,,ribbon,Novedad,red,none,#D9534F,#fff,,no,,
