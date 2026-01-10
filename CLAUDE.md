@@ -1,13 +1,38 @@
-[CLAUDE.md](http://CLAUDE.md) \- Bodega St Joannes Web Redesign Project
+[CLAUDE.md](http://CLAUDE.md) \- Bodega St Joannes E-commerce Project
 
 PROJECT OVERVIEW
 
-Client: Bodega St Joannes  
-Project Type: Complete Website Redesign  
-Current Website: [https://stjoannes.com](https://stjoannes.com)  
-Location: Sant Llorenç d’Hortons, Barcelona (Penedés Region, Spain)  
-Tech Stack Current: WordPress \+ Divi Theme  
-Status: Requirements Gathering & Content Strategy
+Client: Bodega St Joannes
+Project Type: Simple E-commerce Wine Shop
+Current Website: [https://stjoannes.com](https://stjoannes.com)
+Location: Sant Llorenç d'Hortons, Barcelona (Penedés Region, Spain)
+Tech Stack Current: WordPress \+ Divi Theme
+Status: Requirements Definition & Platform Selection
+
+CRITICAL E-COMMERCE REQUIREMENTS
+
+1. **Automatic Invoice Generation**
+   - Generate professional invoice (factura) for each purchase
+   - Include all legally required information (Spanish tax regulations)
+   - PDF format for download and email
+   - Store invoices for customer access and accounting records
+   - Sequential invoice numbering
+   - Include VAT/IVA breakdown
+
+2. **Wine Bottle Pricing & Sales Model**
+   - Display: Price shown per unit/bottle
+   - Sales: Minimum purchase quantity = 6 bottles (box/case)
+   - Cart Logic: Quantities must be multiples of 6
+   - UI: Clear indication of minimum purchase requirement
+   - Mixed Cases: Allow combination of different wines (if total = multiple of 6)
+
+3. **MBE Logistics Integration**
+   - Integration with Mail Boxes Etc. (MBE) for shipping and logistics
+   - Automatic order forwarding to MBE system
+   - Tracking number integration
+   - Shipping label generation
+   - Real-time shipping status updates
+   - API integration requirements (to be documented)
 
 —
 
@@ -431,11 +456,149 @@ SPECIAL CONSIDERATIONS
 
 —
 
+PLATFORM & TECHNOLOGY RECOMMENDATIONS
+
+Current Situation Analysis:
+- Currently using WordPress + Divi Theme
+- Need: Simple e-commerce with specific requirements
+- Critical needs: Invoice generation, bulk sales (6-bottle minimum), MBE integration
+
+## RECOMMENDED OPTIONS (Ranked by Best Fit)
+
+### OPTION 1: WooCommerce (WordPress) - RECOMMENDED FOR YOUR CASE
+**Why this is the best option for you:**
+- ✅ You already know WordPress
+- ✅ Easy migration from current site
+- ✅ Excellent plugin ecosystem for all your needs
+- ✅ Cost-effective (mostly free plugins)
+- ✅ Quick to implement and launch
+
+**Plugins for Your Requirements:**
+
+1. **Invoice Generation:**
+   - WooCommerce PDF Invoices & Packing Slips (Free)
+   - Invoice Gateway for WooCommerce (Free)
+   - Sufio (Premium, €19/month) - Professional Spanish invoices with tax compliance
+
+2. **6-Bottle Minimum Purchase:**
+   - WooCommerce Min/Max Quantities (Free)
+   - Product Quantity Manager for WooCommerce
+   - Custom code (simple) to enforce multiples of 6
+
+3. **MBE Integration:**
+   - WooCommerce REST API for custom integration
+   - Zapier/Make.com for automation (no-code option)
+   - Custom plugin development if MBE has API
+
+**Estimated Development Time:** 2-4 weeks
+**Estimated Cost:** €500-€2,000 (depending on custom development)
+**Monthly Costs:** €30-€50 (hosting + premium plugins)
+
+### OPTION 2: Shopify
+**Pros:**
+- All-in-one solution
+- Excellent Spanish invoice apps (Sufio, Invoice Falcon)
+- Easy to manage
+- Secure and reliable
+
+**Cons:**
+- Monthly fees: ~€29/month + transaction fees (unless Shopify Payments)
+- Less flexibility for custom MBE integration
+- Migration effort from WordPress
+- Learning curve
+
+**Plugins for Your Requirements:**
+- Invoice: Sufio, Invoice Falcon
+- Min quantity: Bold Quantity Breaks, MinMaxify
+- MBE: Custom app or API integration
+
+**Estimated Development Time:** 3-5 weeks
+**Estimated Cost:** €1,500-€3,500
+**Monthly Costs:** €29-€79 + €20-€40 (apps)
+
+### OPTION 3: Custom Development (Next.js + Strapi)
+**Pros:**
+- Complete control and customization
+- Best performance
+- Scalable and modern
+
+**Cons:**
+- Higher development cost
+- Longer development time
+- Requires developer for maintenance
+- Not recommended for "simple e-commerce"
+
+**Estimated Development Time:** 2-3 months
+**Estimated Cost:** €8,000-€15,000
+**Monthly Costs:** €20-€50 (hosting)
+
+## MY RECOMMENDATION: WooCommerce
+
+**Why WooCommerce is perfect for your needs:**
+
+1. **Familiarity:** You already use WordPress, zero learning curve
+2. **Cost-Effective:** Most functionality available with free/affordable plugins
+3. **Quick Launch:** Can be live in 2-4 weeks
+4. **Spanish Market Ready:** Excellent support for Spanish invoicing and tax requirements
+5. **Flexibility:** Easy to customize for 6-bottle rule and MBE integration
+6. **Proven:** Thousands of wine shops run on WooCommerce successfully
+
+**Implementation Plan:**
+
+**Phase 1: Core Setup (Week 1)**
+- Install WooCommerce
+- Configure payment gateways (Redsys for Spanish cards)
+- Setup tax rules (IVA)
+- Install and configure invoice plugin
+
+**Phase 2: Custom Features (Week 2)**
+- Implement 6-bottle minimum purchase logic
+- Configure product display (price per bottle, sold by 6)
+- Mixed case functionality
+
+**Phase 3: MBE Integration (Week 3)**
+- Analyze MBE API/integration options
+- Develop custom connection (or use automation tool)
+- Test order flow end-to-end
+
+**Phase 4: Testing & Launch (Week 4)**
+- User testing
+- Invoice testing (legal compliance)
+- Payment testing
+- Performance optimization
+
+**Recommended Hosting:**
+- SiteGround (€6.99/month) - WooCommerce optimized
+- Cloudways (€11/month) - Better performance
+- Kinsta (€30/month) - Premium, excellent support
+
+**Total Estimated Investment:**
+- Development: €1,000-€2,000
+- Hosting (annual): €100-€360
+- Premium Plugins (annual): €200-€400
+- **Total First Year: €1,300-€2,760**
+
+## MBE Integration Research Needed
+
+**Questions to answer:**
+1. Does MBE provide an API for order integration?
+2. What is the MBE authentication method?
+3. What data format does MBE expect (XML, JSON)?
+4. Do you have MBE API documentation?
+5. Alternative: Does MBE accept CSV/Excel order uploads?
+
+**Integration Approaches:**
+- **API Direct:** Custom WooCommerce plugin connecting to MBE API
+- **Automation Platform:** Zapier/Make.com as middleware (€20-€50/month)
+- **Manual Export:** WooCommerce order export + MBE import (temporary solution)
+
+—
+
 Document Control
 
-Version: 1.0 (Initial Requirements)  
-Last Updated: October 2026  
-Prepared By: Claude AI Assistant  
-Status: Ready for Client Review & Approval
+Version: 2.0 (Requirements + Platform Recommendation)
+Last Updated: January 2026
+Prepared By: Claude AI Assistant
+Status: Ready for Platform Decision & Development
 
-END OF [DOCUMENTCLAUDE.md](http://DOCUMENTCLAUDE.md) \- Bodega St Joannes Web Redesign  
+END OF DOCUMENT - Bodega St Joannes E-commerce Project  
