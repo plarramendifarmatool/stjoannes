@@ -1,0 +1,34 @@
+{
+  "sandbox": {
+    "enabled": true,
+    "autoAllowBashIfSandboxed": true
+  },
+  "permissions": {
+    "defaultMode": "acceptEdits",
+    "allow": [
+      "Read(./**)",
+      "Write(./**)",
+      "Edit(./**)",
+      "Glob(./**)",
+      "Grep(./**)",
+      "Read(D:\\uMust\\StJoannes\\web30/**)",
+      "Write(D:\\uMust\\StJoannes\\web30/**)",
+      "Edit(D:\\uMust\\StJoannes\\web30/**)",
+      "Glob(D:\\uMust\\StJoannes\\web30/**)",
+      "Grep(D:\\uMust\\StJoannes\\web30/**)",
+      "Read(D:\\uMust\\StJoannes\\web30\\.auto-claude\\roadmap/**)",
+      "Write(D:\\uMust\\StJoannes\\web30\\.auto-claude\\roadmap/**)",
+      "Edit(D:\\uMust\\StJoannes\\web30\\.auto-claude\\roadmap/**)",
+      "Bash(*)",
+      "WebFetch(*)",
+      "WebSearch(*)",
+      "mcp__context7__resolve-library-id(*)",
+      "mcp__context7__get-library-docs(*)",
+      "mcp__graphiti-memory__search_nodes(*)",
+      "mcp__graphiti-memory__search_facts(*)",
+      "mcp__graphiti-memory__add_episode(*)",
+      "mcp__graphiti-memory__get_episodes(*)",
+      "mcp__graphiti-memory__get_entity_edge(*)"
+    ]
+  }
+}
